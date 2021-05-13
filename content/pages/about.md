@@ -1,5 +1,5 @@
 ---
-title: 'Matthew Prado | About Me'
+title: 'About Me'
 profile_image: '/media/profile-image.jpg'
 template: 'about-template'
 ---
