@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `Matt's blog`,
+    title: `Matthew Prado`,
     author: {
       name: `Matthew Prado`,
       summary: `A simple man doing complicated things.`,
     },
-    description: `Matthew's website built with the Gatsby Starter Glass theme.`,
+    description: `I'm Matt, a sophomore in high school involved in many topics ranging from business & finance to medicine & technology. Whether it's working on school projects or pursuing projects of my own, you can always find me involved!`,
     siteUrl: `https://gatsbyglass.netlify.app`,
     social: {
       twitter: `mapoztate`,
