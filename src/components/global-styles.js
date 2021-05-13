@@ -82,7 +82,7 @@ body::-webkit-scrollbar {
 }
 
 body::-webkit-scrollbar-thumb {
-  background-color: rgba(55, 41, 44, .4);
+  background-color: rgba(150, 147, 148, .4);
 }
 
 body::-webkit-scrollbar-track {
@@ -103,9 +103,9 @@ body::-webkit-scrollbar-track {
 body {
   font-family: 'Poppins', -apple-system, BlinkMacSystemFont, avenir next, avenir, helvetica neue,
     helvetica, Ubuntu, roboto, noto, segoe ui, arial, sans-serif;
-  color: #6d8df7;
+  color: #fffff;
   background-attachment: fixed;
-  background-color: #23272A;
+  background-color: #6d8df7;
   background-image: #23272A;
 
 }
@@ -140,7 +140,7 @@ p {
 }
 
 ::selection {
-  background: rgba(255, 255, 255, 0.9);
+  background: #6d8df7;
 }
 
 p, li {
