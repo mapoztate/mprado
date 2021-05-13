@@ -14,8 +14,8 @@ module.exports = {
     },
     socialLinks: [
       {
-        name: 'github',
-        url: 'https://github.com/mapoztate',
+        name: 'linkedin',
+        url: 'https://www.linkedin.com/in/mapoztate/',
       },
       {
         name: 'twitter',
