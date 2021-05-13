@@ -150,7 +150,7 @@ const PostPagination = styled.nav`
     padding-top: 0.5rem;
     padding-bottom: 0.5rem;
     border-radius: 8px;
-    border: 1px solid rgba(255, 255, 255, 0.5);
+    border: 1px solid rgba(35, 39, 42, 0.5);
     background-color: rgba(255, 255, 255, 0.3);
     backdrop-filter: blur(10px);
     margin: 0.5rem;
