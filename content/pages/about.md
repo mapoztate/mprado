@@ -1,12 +1,11 @@
 ---
-title: 'About Me'
+title: 'Matthew Prado | About Me'
 profile_image: '/media/profile-image.jpg'
 template: 'about-template'
 ---
 
-# Hi, I'm John Doe
+# Hi, I'm Matthew Prado
 
-This website is a live example of a Gatsby Starter — it's not a real blog.
-People using this starter may want to add some information to this page about them or their business.
+I'm currently a sophomore at Alhambra High School; the leader of 3 Ways to Heck, an organization dedicated toward the act of spreading cyber security to the common people; and owner of Valkyrie PCs, an IT company formed towards the recent climb in PC gaming. I originally started this as a project to familiarize myself as a front end dev with Reactjs, HTML, and CSS but has since transformed to my blog, portfolio, and about any other use for a personal website.
 
 
