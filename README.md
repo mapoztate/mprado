@@ -1,5 +1,5 @@
 # mprado.ml
-my personal website/blog (v2!) based on [the gatsby starter glass](https://github.com/yinkakun/gatsby-starter-glass) to replace my stupid [google sites version](https://www.mprado.ml/) as well as my current [gatsby starter blog](https://github.com/mapoztate/mprado.ml) when I get around to it??? 
+my personal website/blog (v2!) based on [the gatsby starter glass](https://github.com/yinkakun/gatsby-starter-glass) to replace my [google sites version](https://www.mprado.ml/) as well as my current [gatsby starter blog](https://github.com/mapoztate/mprado.ml) when I get around to it??? 
 
 
 ## goals
@@ -7,17 +7,15 @@ my personal website/blog (v2!) based on [the gatsby starter glass](https://githu
 * ~~personalize this to my liking~~
 * migrate all the content that is currently on mprado.ml to here
 * then write more blogs, add more portfolio content
-* new domain or transfer?
+* new domain/transfer & start hosting myself
+* adding social media links as icons
+* figure out how to change the color of links - specifically in the about page and the tags system
+* get rid of the netlify form once I'm no longer dependant on it
 
 ## inspo
 * [vihan.org](https://vihan.org/)
 * [j-fan.ml](https://j-fan.ml/)
-
-
-and most importantly...
 * [angelajt.com](http://angelajt.com/)
-
-> i literally would not know how to use this thing if it weren't for her
 
 
 
