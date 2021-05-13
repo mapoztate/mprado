@@ -145,8 +145,8 @@ const FormWrapper = styled.div`
   padding: 1rem;
   padding-top: 0;
   border-radius: 4px;
-  border: 1px solid rgba(255, 255, 255, 0.7);
-  background-color: rgba(255, 255, 255, 0.5);
+  border: 1px solid rgba(35, 39, 42, 0.7);
+  background-color: rgba(35, 39, 42, 0.5);
   backdrop-filter: blur(10px);
 `;
 
@@ -168,14 +168,14 @@ const FormGroup = styled.div`
     font-family: inherit;
     padding: 0.25rem 0.5rem;
     border-radius: 4px;
-    background-color: #e4b8c7;
+    background-color: #ffffff;
     border: 2px solid transparent;
   }
 
   & textarea:focus,
   input:focus {
     outline: none;
-    border: 2px solid #80576e;
+    border: 2px solid #ffffff;
   }
 `;
 
