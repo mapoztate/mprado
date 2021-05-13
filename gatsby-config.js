@@ -15,15 +15,15 @@ module.exports = {
     socialLinks: [
       {
         name: 'github',
-        url: 'https://github.com',
+        url: 'https://github.com/',
       },
       {
         name: 'twitter',
-        url: 'https://twitter.com',
+        url: 'https://twitter.com/',
       },
       {
         name: 'instagram',
-        url: 'https://instagram.com',
+        url: 'https://instagram.com/',
       },
     ],
   },
