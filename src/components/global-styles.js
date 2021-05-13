@@ -140,7 +140,7 @@ p {
 }
 
 ::selection {
-  background: #6d8df7;
+  background: 23272A;
 }
 
 p, li {
