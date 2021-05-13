@@ -204,7 +204,7 @@ const FormButton = styled.button`
   padding: 0.45rem;
   padding-left: 1.25rem;
   padding-right: 1.5rem;
-  background-color: #23272A;
+  background-color: #2C2F33;
   color: #fafafa;
   border: 1px solid rgba(255, 255, 255, 0.8);
   text-transform: uppercase;
