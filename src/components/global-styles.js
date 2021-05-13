@@ -103,7 +103,7 @@ body::-webkit-scrollbar-track {
 body {
   font-family: 'Poppins', -apple-system, BlinkMacSystemFont, avenir next, avenir, helvetica neue,
     helvetica, Ubuntu, roboto, noto, segoe ui, arial, sans-serif;
-  color: #f5f2f3;
+  color: #6d8df7;
   background-attachment: fixed;
   background-color: #23272A;
   background-image: #23272A;
