@@ -1,7 +1,8 @@
 ---
 title: '"Smart" is a man-made concept'
-date: 2020-09-21T22:00
-tags: "education"
+date: 2020-09-21
+tags: [education]
+social_image: '/media/rocket.jpg'
 ---
 Blog inspired by [this](https://twitter.com/shl/status/1306938826070224896) tweet:
 
