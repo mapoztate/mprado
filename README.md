@@ -4,7 +4,7 @@ my personal website/blog (v2!) based on [the gatsby starter glass](https://githu
 
 ## goals
 * ~~first of all learn how to use this thing~~ fix utterances it literally doesnt work across v1 and v2
-* personalize this to my liking
+* ~~personalize this to my liking~~
 * migrate all the content that is currently on mprado.ml to here
 * then write more blogs, add more portfolio content
 * new domain or transfer?
