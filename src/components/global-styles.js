@@ -82,7 +82,7 @@ body::-webkit-scrollbar {
 }
 
 body::-webkit-scrollbar-thumb {
-  background-color: rgba(150, 147, 148, .4);
+  background-color: rgba(44, 47, 51, .4);
 }
 
 body::-webkit-scrollbar-track {
