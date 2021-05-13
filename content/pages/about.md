@@ -4,7 +4,7 @@ profile_image: '/media/profile-image.jpg'
 template: 'about-template'
 ---
 
-# Hi, I'm Matthew Prado
+# Hey, I'm Matt!
 
 —
 
