@@ -9,6 +9,7 @@ const PostTemplate = ({ data }) => {
   const prev = data.prev;
   const next = data.next;
 
+  
   return (
     <Layout
       title={frontmatter.title}
@@ -41,7 +42,16 @@ const PostTemplate = ({ data }) => {
           )}
         </PostPagination>
         <Tags tags={frontmatter.tags} />
-      </PostWrapper>
+      
+     <script src="https://utteranc.es/client.js"
+        repo="mapoztate/websitev2"
+        issue-term="title"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+     </script>
+          
+       </PostWrapper>
     </Layout>
   );
 };
