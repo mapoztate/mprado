@@ -1,7 +1,7 @@
 import React from 'react';
 import Layout from '../components/layout';
 import { Link, graphql } from 'gatsby';
-import '../src/styles.css';
+import '../../styles.css';
 
 const toKebabCase = (str) => {
   return str
