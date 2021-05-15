@@ -1,7 +1,7 @@
 import React from 'react';
 import Layout from '../components/layout';
 import { Link, graphql } from 'gatsby';
-import '../../styles';
+
 
 const toKebabCase = (str) => {
   return str
@@ -19,8 +19,8 @@ const Tags = ({ data }) => {
 
       <ul>
         {tags.map((tag) => (
-          <li key={tag.fieldValue}>
-            <Link to={`/tags/${toKebabCase(tag.fieldValue)} class = 'link'/`}>
+          <li key={tag.fieldValue} style="color:white;text-decoration:none;">
+            <Link to={`/tags/${toKebabCase(tag.fieldValue)}/`}>
               {tag.fieldValue} ({tag.totalCount})
             </Link>
           </li>
