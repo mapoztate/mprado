@@ -12,7 +12,7 @@ const toKebabCase = (str) => {
 
 
 const linkStyle = {
-  color: '#6d8df7'
+  color: 'white'
 };
 
 const Tags = ({ data }) => {
@@ -22,9 +22,9 @@ const Tags = ({ data }) => {
     <Layout title="All Tags">
       <h1>All Tags</h1>
 
-      <ul>
+      <ul  style={linkStyle}>
         {tags.map((tag) => (
-          <li key={tag.fieldValue} style={linkStyle} >
+          <li key={tag.fieldValue}>
             <Link to={`/tags/${toKebabCase(tag.fieldValue)}/`}>
               {tag.fieldValue} ({tag.totalCount})
             </Link>
