@@ -10,6 +10,11 @@ const toKebabCase = (str) => {
     .join('-');
 };
 
+
+const linkStyle = {
+  color: '#6d8df7'
+};
+
 const Tags = ({ data }) => {
   const tags = data.allMarkdownRemark.group;
 
@@ -19,7 +24,7 @@ const Tags = ({ data }) => {
 
       <ul>
         {tags.map((tag) => (
-          <li key={tag.fieldValue} style="color:white;text-decoration:none;">
+          <li key={tag.fieldValue} style={linkStyle} >
             <Link to={`/tags/${toKebabCase(tag.fieldValue)}/`}>
               {tag.fieldValue} ({tag.totalCount})
             </Link>
