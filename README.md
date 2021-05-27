@@ -6,11 +6,11 @@ my personal website/blog (v2!) based on [the gatsby starter glass](https://githu
 * ~~first of all learn how to use this thing~~ fix utterances it literally doesnt work across v1 and v2
 * ~~personalize this to my liking~~
 * migrate all the content that is currently on mprado.ml to here
-* then write more blogs, add more portfolio content
-* new domain/transfer & start hosting myself
+* then write more blogs, add more portfolio content - draft ideas for new pages maybe?
+* new domain/transfer
 * adding social media links as icons
 * figure out how to change the color of links - specifically in the about page and the tags system
-* get rid of the netlify form once I'm no longer dependant on it
+* get Netlify CMU to actually work
 
 ## inspo
 * [vihan.org](https://vihan.org/)
