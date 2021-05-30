@@ -2,15 +2,13 @@
 my personal website/blog (v2!) based on [the gatsby starter glass](https://github.com/yinkakun/gatsby-starter-glass) to replace my [google sites version](https://www.mprado.ml/) as well as my current [gatsby starter blog](https://github.com/mapoztate/mprado.ml) when I get around to it??? 
 
 
-## goals
-* ~~first of all learn how to use this thing~~ fix utterances it literally doesnt work across v1 and v2
-* ~~personalize this to my liking~~
+## goals 
+* fix utterances it literally doesnt work across v1 and v2
 * migrate all the content that is currently on mprado.ml to here
 * then write more blogs, add more portfolio content - draft ideas for new pages maybe?
 * new domain/transfer
-* adding social media links as icons
+* adding social media links / main page navi as icons
 * figure out how to change the color of links - specifically in the about page and the tags system
-* get Netlify CMU to actually work
 
 ## inspo
 * [vihan.org](https://vihan.org/)
