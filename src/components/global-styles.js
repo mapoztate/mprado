@@ -140,7 +140,7 @@ p {
 }
 
 ::selection {
-  background: rgba(255, 255, 255, 0.9);
+  background: rgba(0, 0, 255, 0.7);
 }
 
 p, li {
