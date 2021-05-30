@@ -9,3 +9,4 @@ my personal website/blog (v2) based on [the gatsby starter glass](https://github
 * transfer domain
 * adding social media links / main page navi as icons
 * Change the color of links in the about page and the tags system
+* fix highlight color from white
