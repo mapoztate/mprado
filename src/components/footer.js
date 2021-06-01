@@ -11,7 +11,7 @@ const Footer = () => {
 
         <FooterAttribution>
           © 2021{' '}
-          <a href="https://github.com/mapoztate">Matthew Prado</a>
+          <a href="https://github.com/mapoztate/mprado">Matthew Prado</a>
         </FooterAttribution>
       </FooterWrapper>
     </StyledFooter>
