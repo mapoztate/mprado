@@ -17,7 +17,7 @@ const PostTemplate = ({ data }) => {
       script.async = true;
       script.crossOrigin = "anonymous";
       script.setAttribute("repo", "mapoztate/mprado");
-      script.setAttribute("issue-term", frontmatter.title);
+      script.setAttribute("issue-term", frontmatter.title.replace("\"", "'"));
       script.setAttribute("label", "comment");
       script.setAttribute("theme", "github-dark");
   
@@ -44,10 +44,9 @@ const PostTemplate = ({ data }) => {
         <article>
           <PostTitle>{frontmatter.title}</PostTitle>
           <PostDate>{frontmatter.date}</PostDate>
-          <Tags tags={frontmatter.tags} />          
+                    
 
-          <PostContent dangerouslySetInnerHTML={{ __html: html }} />
-        <div ref={commentsWrapper} />  
+          <PostContent dangerouslySetInnerHTML={{ __html: html }} />  
       </article>
 
         <PostPagination>
@@ -65,6 +64,8 @@ const PostTemplate = ({ data }) => {
             </div>
           )}
         </PostPagination>
+        <Tags tags={frontmatter.tags} />
+        <div ref={commentsWrapper} />
        </PostWrapper>
     </Layout>
   );
