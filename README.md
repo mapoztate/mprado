@@ -3,7 +3,6 @@ my personal website based on [the gatsby starter glass](https://github.com/yinka
 
 
 ## goals/issues
-* fix utterances (it doesn't work across v1 & v2)
 * migrate all content currently on mprado.ml to here
 * write more blogs + add portfolio page
 * transfer domain
