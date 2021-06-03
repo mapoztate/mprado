@@ -13,7 +13,7 @@ const toKebabCase = (str) => {
 const Tags = ({ data }) => {
   const tags = data.allMarkdownRemark.group;
 
-const Color = styled.div`
+const linkStyle = styled.div`
 a {
   color: white;  
   }
@@ -26,7 +26,7 @@ a {
       <ul>
         {tags.map((tag) => (
           <li key={tag.fieldValue}>
-            <Link to={`/tags/${toKebabCase(tag.fieldValue)}/`}>
+            <Link to={`/tags/${toKebabCase(tag.fieldValue)}/`} style={linkStyle}>
               {tag.fieldValue} ({tag.totalCount})
             </Link>
           </li>
