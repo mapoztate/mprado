@@ -8,8 +8,30 @@ const PostTemplate = ({ data }) => {
   const { frontmatter, excerpt, html } = data.markdownRemark;
   const prev = data.prev;
   const next = data.next;
-
+  const commentsWrapper = useRef();
+  useEffect(() => {
+    const wrapper = commentsWrapper.current;
+    if (wrapper) {
+      const script = document.createElement("script");
+      script.src = "https://utteranc.es/client.js";
+      script.async = true;
+      script.crossOrigin = "anonymous";
+      script.setAttribute("repo", "mapoztate/mprado");
+      script.setAttribute("issue-term", frontmatter.title);
+      script.setAttribute("label", "comment");
+      script.setAttribute("theme", "github-dark");
   
+      wrapper.appendChild(script);
+
+      return () => {
+        while (wrapper.firstChild) {
+          wrapper.removeChild(wrapper.lastChild);
+        }
+      };
+    }
+  }, [frontmatter.title]);
+
+      
   return (
     <Layout
       title={frontmatter.title}
@@ -25,7 +47,8 @@ const PostTemplate = ({ data }) => {
           <Tags tags={frontmatter.tags} />          
 
           <PostContent dangerouslySetInnerHTML={{ __html: html }} />
-        </article>
+        <div ref={commentsWrapper} />  
+      </article>
 
         <PostPagination>
           {prev && (
@@ -42,16 +65,6 @@ const PostTemplate = ({ data }) => {
             </div>
           )}
         </PostPagination>
-
-      
-     <script src="https://utteranc.es/client.js"
-        repo="mapoztate/mprado"
-        issue-term="title"
-        theme="github-dark"
-        crossorigin="anonymous"
-        async>
-     </script>
-          
        </PostWrapper>
     </Layout>
   );
