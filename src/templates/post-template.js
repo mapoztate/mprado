@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect, useRef } from "react"
 import { Link, graphql } from 'gatsby';
 import Layout from '../components/layout';
 import styled from 'styled-components';
