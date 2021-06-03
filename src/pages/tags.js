@@ -13,11 +13,9 @@ const toKebabCase = (str) => {
 const Tags = ({ data }) => {
   const tags = data.allMarkdownRemark.group;
 
-const linkStyle = styled.div`
-a {
-  color: white;  
-  }
-`;
+const linkStyle = {
+  color: 'white' 
+};
  
   return (
     <Layout title="All Tags">
