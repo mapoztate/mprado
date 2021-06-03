@@ -5,7 +5,6 @@ my personal website based on [the gatsby starter glass](https://github.com/yinka
 ## goals/issues
 * fix utterances (it doesn't work across v1 & v2)
 * migrate all content currently on mprado.ml to here
-* write more blogs + add more portfolio content
+* write more blogs + add portfolio page
 * transfer domain
 * adding social media links / main page navi as icons
-* change the color of links in the about page and the tags system
