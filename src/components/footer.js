@@ -10,7 +10,7 @@ const Footer = () => {
         <SocialLinks />
 
         <FooterAttribution>
-          © 2021{' '}
+          ©{' '}
           <a href="https://github.com/mapoztate/mprado">Matthew Prado</a>
         </FooterAttribution>
       </FooterWrapper>

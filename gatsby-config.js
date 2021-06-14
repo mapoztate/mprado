@@ -153,8 +153,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Frosted Blog`,
-        short_name: `Gatsby Frosted`,
+        name: `Matthew Prado`,
+        short_name: `mprado.ml`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,

@@ -8,8 +8,8 @@ const NotFoundPage = () => {
     <Layout title="404 Not Found">
       <NotFoundPageWrapper>
         <Ghost size={240} mood="sad" color="#E0E4E8" />
-        <h1>OOPS..</h1>
-        <p>404. Page not found</p>
+        <h1>:/</h1>
+        <p>404 - Page not found.</p>
       </NotFoundPageWrapper>
     </Layout>
   );
