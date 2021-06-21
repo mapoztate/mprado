@@ -120,7 +120,7 @@ const ContactWrapper = styled.div`
 
   @media screen and (max-width: 1000px) {
     & {
-      flex-direction: row;
+      flex-direction: column;
       justify-content: flex-start;
     }
 
@@ -133,9 +133,7 @@ const ContactWrapper = styled.div`
 `;
 
 const ContactCopy = styled.div`
-  max-width: 45ch;
-  display: flex;
-  flex-direction: row;
+  max-width: 60ch;
 
   & a {
   color: white;  
