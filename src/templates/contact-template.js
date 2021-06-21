@@ -108,9 +108,10 @@ const ContactForm = () => {
 
 const ContactWrapper = styled.div`
   display: flex;
-  align-items: center;
+  flex-direction: row;
+  // align-items: center;
   height: 100%;
-  justify-content: space-around;
+  // justify-content: space-around;
   margin-top: 1rem;
   padding-bottom: 1rem;
 
