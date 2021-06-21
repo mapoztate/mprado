@@ -14,16 +14,16 @@ module.exports = {
     },
     socialLinks: [
       {
-        name: 'linkedin',
-        url: 'https://www.linkedin.com/in/mapoztate/',
+        name: 'CV',
+        url: 'https://docs.google.com/document/d/e/2PACX-1vQI_tDd_EG5AIv3NfpoVkcIcnh4UEF3rnhHTwJh-_PxbckY_oeoZDFtP4zFtfVIZb77uQfNGSTNloOM/pub',
       },
       {
-        name: 'twitter',
-        url: 'https://twitter.com/mapoztate',
+        name: 'Media',
+        url: '/media',
       },
       {
-        name: 'instagram',
-        url: 'https://instagram.com/mapoztate',
+        name: 'Resume',
+        url: 'https://docs.google.com/document/d/e/2PACX-1vTDrXgS3gghfdfcqcHnFsnEfx3Rf6vt6ki27KEsxX1PYdnceEH7ZpkH4M7K-4T5G6OJplZ36kdQIolZ/pub',
       },
     ],
   },
