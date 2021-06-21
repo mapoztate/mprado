@@ -120,7 +120,7 @@ const ContactWrapper = styled.div`
 
   @media screen and (max-width: 1000px) {
     & {
-      flex-direction: column;
+      flex-direction: row;
       justify-content: flex-start;
     }
 
