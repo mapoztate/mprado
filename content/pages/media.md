@@ -4,11 +4,11 @@ profile_image: '/media/media-fill.png'
 template: 'media-template'
 ---
 
+# Media
+
+—
 
 <p>&nbsp;</p>
-
-
-# Media
 
 ### Articles
 * [Cyberlympics Unites Students Across the Bay Region](https://ictdmsector.org/cyberlympics-unites-students-across-the-bay-region/)
