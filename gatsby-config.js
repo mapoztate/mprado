@@ -15,7 +15,7 @@ module.exports = {
     socialLinks: [
       {
         name: 'CV',
-        url: 'https://docs.google.com/document/d/e/2PACX-1vQI_tDd_EG5AIv3NfpoVkcIcnh4UEF3rnhHTwJh-_PxbckY_oeoZDFtP4zFtfVIZb77uQfNGSTNloOM/pub',
+        url: 'https://docs.google.com/document/d/1myOUMbFVjEmgFTFFFV1C9weSqX4TdTQyr8TmRVrVv5s/export?format=pdf&attachment=false',
       },
       {
         name: 'Media',
@@ -23,7 +23,7 @@ module.exports = {
       },
       {
         name: 'Resume',
-        url: 'https://docs.google.com/document/d/e/2PACX-1vTDrXgS3gghfdfcqcHnFsnEfx3Rf6vt6ki27KEsxX1PYdnceEH7ZpkH4M7K-4T5G6OJplZ36kdQIolZ/pub',
+        url: 'https://docs.google.com/document/d/1ZM0nTYR95B-z5hde3wQCj9S9gCimNtd2qsAqjMHL74g/export?format=pdf&attachment=false',
       },
     ],
   },
