@@ -3,4 +3,4 @@ my personal website based on [the gatsby starter glass](https://github.com/yinka
 
 
 ## goals/issues
-* add portfolio page
+* fix homepage scaling on mobile by collapsing tables

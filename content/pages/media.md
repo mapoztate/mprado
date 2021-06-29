@@ -17,4 +17,4 @@ template: 'media-template'
 * [Cabrillo CIS Students Host Region-wide Cybersecurity Competition](https://www.santacruztechbeat.com/2020/01/21/cabrillo-cis-students-host-region-wide-cybersecurity-competition/)
 
 ### Podcasts
-* Infosec Decoded - June 28, 2021
+* [Infosec Decoded #40](https://samsclass.info/news/news_062921.html)
