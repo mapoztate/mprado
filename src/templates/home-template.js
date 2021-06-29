@@ -29,13 +29,18 @@ const PostTemplate = ({ data }) => {
 export default PostTemplate;
 
 const PostWrapper = styled.div`
-  display: block;
+  display: flex;
   padding-top: var(--size-900);
   padding-bottom: var(--size-900);
   margin-left: auto;
   margin-right: auto;
   width: fit-content;
   word-wrap: break-word;
+
+  @media screen and (max-width: 1000px) {
+    & {
+      flex-direction: column;
+    }
 `;
 
 const PostDate = styled.span`
