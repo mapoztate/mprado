@@ -38,8 +38,8 @@ const PostWrapper = styled.div`
   word-wrap: break-word;
 
   @media screen and (max-width: 1000px) {
-    & {
-      flex-direction: column;
+    & td {
+      display: block;
     }
 `;
 
@@ -71,6 +71,10 @@ const PostContent = styled.section`
 
   & img {
     display: inline;
+  }
+
+  & td {
+    display: block;
   }
 
   * + h1,
