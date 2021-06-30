@@ -3,5 +3,5 @@ my personal website heavily modified from [the gatsby starter glass](https://git
 
 
 ## goals/issues
-* fix homepage scaling on mobile by collapsing tables
-* fix bio page by leaving image in static location / on top
+* fix bio/media page by leaving image in static location (on top)
+* finish up adding experience
