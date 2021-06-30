@@ -73,10 +73,6 @@ const PostContent = styled.section`
     display: inline;
   }
 
-  & td {
-    display: block;
-  }
-
   * + h1,
   * + h2,
   * + h3 {
