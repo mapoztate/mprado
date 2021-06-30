@@ -40,6 +40,7 @@ const PostWrapper = styled.div`
   @media screen and (max-width: 1000px) {
     & td {
       display: block;
+      text-align: center;
     }
 `;
 
@@ -67,10 +68,6 @@ const PostContent = styled.section`
 
   & img {
     display: inline;
-  }
-
-  & td {
-    display: block;
   }
 
   * + h1,
