@@ -7,7 +7,7 @@ title: 'Home'
 
 <table style="border:none;">
     <tr>
-        <td>Hey! I'm Matthew, a junior at Alhambra High School with interests in medicine, computer science, and business. I'm seeking opportunities in the fields of finance, information technology, data science, and software engineering via telecommute or in the vicinity of the SF Bay Area.<br><br>I have over 10+ yrs of experience in the IT sector while dabbling my feet in computer science and finance for a couple years now.<br></td>
+        <td>Hey! I'm Matthew, a junior at Alhambra High School with interests in medicine, computer science, and business. I'm seeking opportunities in the fields of finance, information technology, data science, and software engineering via telecommute or in the vicinity of the SF Bay Area.<br><br>I have over 10+ yrs of experience in the IT sector while dabbling my feet in computer science and finance for a couple years now.<br><br></td>
         
 <td style="vertical-align:top">In my free time, I love playing chess, wasting my time in video games, learning new languages, getting a good workout in, and building too many keyboards to know what to do with. <br><br>
 <p align='center'>
