@@ -64,10 +64,6 @@ const PostContent = styled.section`
     width: 100%;
     border-collapse: collapse;
   }
-  & table tr td:nth-child(1) {
-    width: 60%;
-    padding-right: 20px;
-  }
 
   & img {
     display: inline;
