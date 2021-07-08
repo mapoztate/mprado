@@ -1,7 +1,7 @@
 ---
 title: 'Choose Your HS ECs Wisely'
 date: 2021-06-16
-tags: [yr2021, education, high-school]
+tags: [education, high-school]
 social_image: '/media/rocket.jpg'
 description: Curating your activities in high school with what you love.
 ---
