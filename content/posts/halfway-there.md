@@ -1,7 +1,7 @@
 ---
 title: 'Halfway There'
 date: 2021-06-03
-tags: [english, yr2021, education, ahs]
+tags: [yr2021, education, ahs]
 social_image: '/media/rocket.jpg'
 description: A little sum up of events that has happened from my freshman year of high school to the start of my junior year.
 ---

@@ -1,8 +1,9 @@
 ---
-title: 'Choose Your ECs Wisely'
+title: 'Choose Your HS ECs Wisely'
 date: 2021-06-16
-tags: [english, yr2021, education, high-school]
+tags: [yr2021, education, high-school]
 social_image: '/media/rocket.jpg'
+description: Curating your activities in high school with what you love.
 ---
 When people say to start an activity in high school, they say don't do it just for the college application. Do things that you have an interest in and wouldn't mind doing outside of high school, even if college apps didn't exist. Your portfolio should reflect the best qualities of you as a person, even without you telling them. While being in an honor society may put you as an "academic cool kid", think about how many other people have National Honor Society listed under their portfolio. You want to stand out as much as possible by having a unique set of activities that show what you love.
 

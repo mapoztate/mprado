@@ -1,8 +1,9 @@
 ---
 title: 'How to Maximize Your Time in High School'
 date: 2021-06-30
-tags: [english, education, high-school]
+tags: [education, high-school]
 social_image: '/media/rocket.jpg'
+description: Making the best out of your limited time in high school for college.
 ---
 Have dreams to shoot for the big universities? Limited by the opportunities offered at your high school? I know the feeling. If you're reading this you're either just a bit lost in the craziness that is high school or you're just an excited middle schooler ready to explore what the next 4 years have to offer you. Wherever you are, just know that you aren't alone and that I was once in your same position. I've compiled this list in hopes that I can clarify just some of the many things that confused me. For the purpose of keeping this monster of an article short, I've linked some of my other blog posts that will go in more depth for some of the things that I highlighted in this post. 
 

@@ -1,8 +1,9 @@
 ---
 title: '"Smart" is a man-made concept'
 date: 2020-09-21
-tags: [english, yr2020, education]
+tags: [yr2020, education]
 social_image: '/media/rocket.jpg'
+description: We often think that high grades and awards dictate how smart we are. Let's think about it from a different perspective.
 ---
 Blog inspired by [this](https://twitter.com/shl/status/1306938826070224896) tweet:
 
