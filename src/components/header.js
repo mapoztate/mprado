@@ -30,7 +30,7 @@ const Header = () => {
           </HeaderNavListItem>
 
           <HeaderNavListItem>
-            <Link to="/about">Bio</Link>
+            <Link to="/media">Media</Link>
           </HeaderNavListItem>
 
           <HeaderNavListItem>

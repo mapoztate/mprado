@@ -17,10 +17,6 @@ module.exports = {
         name: 'CV',
         url: 'https://docs.google.com/document/d/e/2PACX-1vQI_tDd_EG5AIv3NfpoVkcIcnh4UEF3rnhHTwJh-_PxbckY_oeoZDFtP4zFtfVIZb77uQfNGSTNloOM/pub',
       },
-      {
-        name: 'Media',
-        url: '/media',
-      },
     ],
   },
   plugins: [

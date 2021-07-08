@@ -1,7 +1,7 @@
 ---
 title: 'Media'
 profile_image: '/media/media-fill.png'
-template: 'media-template'
+template: 'about-template'
 ---
 
 # Media
