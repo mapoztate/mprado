@@ -11,10 +11,10 @@ title: 'Home'
         
 <td style="vertical-align:top">In my free time, I love playing chess, wasting my time in video games, learning new languages, getting a good workout in, and building too many keyboards to know what to do with. <br><br>
 <p align='center'>
-<a href="https://www.linkedin.com/in/mapoztate/"><img height="30" src="https://user-images.githubusercontent.com/71365470/122693012-d4f14200-d1ec-11eb-8852-4bd223d3b41f.png"></a>&nbsp;&nbsp;
-<a href="https://github.com/mapoztate"><img height="30" src="https://user-images.githubusercontent.com/71365470/122693123-4fba5d00-d1ed-11eb-9759-85e584827eb5.png"></a>&nbsp;&nbsp;
-<a href="https://docs.google.com/document/d/1myOUMbFVjEmgFTFFFV1C9weSqX4TdTQyr8TmRVrVv5s/export?format=pdf&attachment=false"><img height="30" src="https://user-images.githubusercontent.com/71365470/123560227-db843a00-d755-11eb-845e-1606b2cdb2df.png"></a>&nbsp;&nbsp;
-<a href="mailto:matthew.f.prado@valkyriepcs.com"><img height="30" src="https://user-images.githubusercontent.com/71365470/123560224-daeba380-d755-11eb-9adb-c5a3b9de2fb8.png"></a>
+<a href="https://www.linkedin.com/in/mapoztate/"><img height="30" width="30" src="https://user-images.githubusercontent.com/71365470/122693012-d4f14200-d1ec-11eb-8852-4bd223d3b41f.png" alt="linkedin"></a>&nbsp;&nbsp;
+<a href="https://github.com/mapoztate"><img height="30" width="30" src="https://user-images.githubusercontent.com/71365470/122693123-4fba5d00-d1ed-11eb-9759-85e584827eb5.png" alt="github"></a>&nbsp;&nbsp;
+<a href="https://docs.google.com/document/d/1myOUMbFVjEmgFTFFFV1C9weSqX4TdTQyr8TmRVrVv5s/export?format=pdf&attachment=false"><img height="30" width="30" src="https://user-images.githubusercontent.com/71365470/123560227-db843a00-d755-11eb-845e-1606b2cdb2df.png" alt="resume"></a>&nbsp;&nbsp;
+<a href="mailto:matthew.f.prado@valkyriepcs.com"><img height="30" width="30" src="https://user-images.githubusercontent.com/71365470/123560224-daeba380-d755-11eb-9adb-c5a3b9de2fb8.png" alt="e-mail"></a>
 </p> </td>
     </tr>
 </table>
