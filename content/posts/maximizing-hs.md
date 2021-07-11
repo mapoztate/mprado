@@ -28,6 +28,7 @@ Some high schools offer credit for taking online high school classes; make sure 
 <br>
 <details><summary> Please check with your counselor first as the acceptance changes from school to school; these are the ones that my school accepts for credit.</summary> 
 <center> <strong> Online Class Providers (as of 2020) </strong> </center>
+
 [Silicon Valley High School](https://svhs.education/course-catalog/) offers regular courses. $95 for 5 credits and $190 for 10 credits. <br><br>
 [Brigham Young University Independent Study High School](https://is.byu.edu/catalog?school=11&subject=All&search=&type=All&credits=All&special=All) offers both regular and AP courses. Prices range from $148 to $249 per semester depending on course delivery format ($296 to $498 per yearlong course) plus materials.<br><br>
 [Keystone National High School](https://courses.keystoneschoolonline.com/high-school) offers both regular and AP courses. Prices range from $229 to $289 per semester depending on course delivery format and level of support ($299 to $499 per yearlong course).<br><br>
