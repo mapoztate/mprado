@@ -1,0 +1,1 @@
+{"rule":"NOUN_AROUND_IT","sentence":"^\\QAside from being paid and getting my hands on the latest technology, helping the people around me at a good cost was the ultimate reward.\\E$"}
