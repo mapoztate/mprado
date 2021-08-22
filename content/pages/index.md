@@ -7,7 +7,7 @@ title: 'Home'
 
 <table>
     <tr>
-        <td style="border: 5px solid black; border-style: hidden;">Welcome! I'm Matthew, a student at Alhambra High School with over 10+ years of experience in information & communication technology, computer science, and business. I'm seeking opportunities in the fields of quantitative finance, software engineering, and startup culture via telecommute or in the vicinity of the SF Bay Area.<br><br>In my free time, I love playing chess, wasting my time in video games, learning new languages, getting a good workout in, and building too many keyboards to know what to do with. <br><br></td>
+        <td style="border: 5px; border-color: #23272a; border-style: solid; border-left: none; border-top: none; border-bottom: none">Welcome! I'm Matthew, a student at Alhambra High School with over 10+ years of experience in information & communication technology, computer science, and business. I'm seeking opportunities in the fields of quantitative finance, software engineering, and startup culture via telecommute or in the vicinity of the SF Bay Area.<br><br>In my free time, I love playing chess, wasting my time in video games, learning new languages, getting a good workout in, and building too many keyboards to know what to do with. <br><br></td>
         
 <td style="vertical-align:top">I write blogs on my various passions about twice monthly and am in the process of moving over my previous blogs from my old website after I revise them. I'll get to the process of adding a formal portfolio to this website soon, but you can check out my LinkedIn, CV, or resume in the mean time. <br><br>
 <p align='center'>
