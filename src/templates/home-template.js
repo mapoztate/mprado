@@ -64,6 +64,7 @@ const PostContent = styled.section`
   & table {
     width: 100%;
     border-collapse: collapse;
+    table-layout: fixed;
   }
 
   & img {
