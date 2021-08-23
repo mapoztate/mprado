@@ -30,7 +30,6 @@ export default PostTemplate;
 
 const PostWrapper = styled.div`
   display: flex;
-  padding-top: var(--size-900);
   padding-bottom: var(--size-900);
   margin-left: auto;
   margin-right: auto;
@@ -50,8 +49,6 @@ const PostWrapper = styled.div`
 `;
 
 const PostContent = styled.section`
-  padding-top: var(--size-800);
-
   & > * + * {
     margin-top: var(--size-300);
   }
