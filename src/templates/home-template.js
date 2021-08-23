@@ -43,6 +43,10 @@ const PostWrapper = styled.div`
       text-align: center;
       border-style: none;
     }
+    
+    & h1 {
+      text-align: center;
+    }
 `;
 
 const PostContent = styled.section`
@@ -59,7 +63,6 @@ const PostContent = styled.section`
   & table {
     width: 100%;
     border-collapse: collapse;
-    table-layout: fixed;
   }
 
   & table td {
