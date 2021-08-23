@@ -1,5 +1,5 @@
 ---
-title: 'How to Maximize Your Time in High School'
+title: 'Maximizing Your Time in High School'
 date: 2021-06-30
 tags: [education, high-school]
 social_image: '/media/rocket.jpg'
