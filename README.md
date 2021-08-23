@@ -5,12 +5,13 @@ my personal website heavily modified from [the gatsby starter glass](https://git
 
 ## goals
 * finish up adding experience.
+* add features of website
 
 ## optimizations
 * if you have any recommendations, please let me know!
 
 ## issues
-* make table width split 50% each on two columns
+* create 4 bars on navbar
 * increase invisible border size between two columns
 
 ## ideas
