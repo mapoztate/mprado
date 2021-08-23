@@ -41,13 +41,8 @@ const PostWrapper = styled.div`
     & td {
       display: block;
       text-align: center;
+      border-style: none;
     }
-`;
-
-const PostDate = styled.span`
-  font-size: var(--size-400);
-  padding-top: 1rem;
-  text-transform: uppercase;
 `;
 
 const PostContent = styled.section`
@@ -65,6 +60,27 @@ const PostContent = styled.section`
     width: 100%;
     border-collapse: collapse;
     table-layout: fixed;
+  }
+
+  & table td {
+    border: 5px; 
+    border-color: rgb(35 39 42 / 0%); 
+  }
+  
+  & table tr:first-child td {
+    border-top: 0;
+  }
+  
+  & table tr td:first-child {
+    border-left: 0;
+  }
+  
+  & table tr:last-child td {
+    border-bottom: 0;
+  }
+  
+  & table tr td:last-child {
+    border-right: 0;
   }
 
   & img {

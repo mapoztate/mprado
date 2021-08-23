@@ -14,8 +14,6 @@ title: 'Home'
         <a href="/resume"><img height="30" width="30" src="https://user-images.githubusercontent.com/71365470/123560227-db843a00-d755-11eb-845e-1606b2cdb2df.png" alt="resume"></a>&nbsp;&nbsp;
         <a href="mailto:matthew.f.prado@valkyriepcs.com"><img height="30" width="30" src="https://user-images.githubusercontent.com/71365470/123560224-daeba380-d755-11eb-9adb-c5a3b9de2fb8.png" alt="e-mail"></a>
         </p> </td>
-        <td> &nbsp;&nbsp;&nbsp;
-        </td>
-<td><img src="https://user-images.githubusercontent.com/71365470/130392839-7aa187c8-564a-4b01-8731-6516046662b4.jpg" alt="golden-gate"></img> </td>
+        <td><img src="https://user-images.githubusercontent.com/71365470/130392839-7aa187c8-564a-4b01-8731-6516046662b4.jpg" alt="golden-gate"></img> </td>
     </tr>
 </table>
