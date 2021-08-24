@@ -20,6 +20,7 @@ const PostTemplate = ({ data }) => {
         <article>
           <PostContent dangerouslySetInnerHTML={{ __html: html }} />  
         </article>
+        <br><br>
         <StyledLink
         css={`
           display: block;
