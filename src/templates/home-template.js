@@ -2,6 +2,7 @@ import React from "react";
 import { graphql } from 'gatsby';
 import Layout from '../components/layout';
 import styled from 'styled-components';
+import StyledLink from '../components/styled-link';
 
 const PostTemplate = ({ data }) => {
   const { frontmatter, excerpt, html } = data.markdownRemark;
@@ -17,10 +18,21 @@ const PostTemplate = ({ data }) => {
     >
       <PostWrapper>
         <article>
-                    
-
           <PostContent dangerouslySetInnerHTML={{ __html: html }} />  
-      </article>
+        </article>
+        <StyledLink
+        css={`
+          display: block;
+          margin-top: var(--size-800);
+          margin-bottom: var(--size-800);
+          margin-left: auto;
+          margin-right: auto;
+          width: fit-content;
+        `}
+        to="/blog"
+      >
+        View All Posts
+      </StyledLink>
        </PostWrapper>
     </Layout>
   );
