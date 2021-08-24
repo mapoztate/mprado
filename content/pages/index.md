@@ -18,3 +18,5 @@ title: 'Home'
         <td width="45%"><img src="https://user-images.githubusercontent.com/71365470/130392839-7aa187c8-564a-4b01-8731-6516046662b4.jpg" alt="golden-gate"></img> </td>
     </tr>
 </table>
+
+<br> <br> 
