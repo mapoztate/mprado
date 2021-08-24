@@ -20,20 +20,6 @@ const PostTemplate = ({ data }) => {
         <article>
           <PostContent dangerouslySetInnerHTML={{ __html: html }} />  
         </article>
-        <br><br>
-        <StyledLink
-        css={`
-          display: block;
-          margin-top: var(--size-800);
-          margin-bottom: var(--size-800);
-          margin-left: auto;
-          margin-right: auto;
-          width: fit-content;
-        `}
-        to="/blog"
-      >
-        View All Posts
-      </StyledLink>
        </PostWrapper>
     </Layout>
   );
