@@ -18,12 +18,10 @@ title: 'Home'
         <td width="45%"><img src="https://user-images.githubusercontent.com/71365470/130392839-7aa187c8-564a-4b01-8731-6516046662b4.jpg" alt="golden-gate"></img> </td>
     </tr>
 </table>
-
-<hr>
-
+<br><hr><br>
 <table>
     <tr>
-        <td style="vertical-align:top;" width="45%"><h2>Explore<br/>—</h2>
+        <td style="vertical-align:top;" width="45%" class="explore"><h2>Explore<br/>—</h2>
          <strong> • 🎓 Advice </strong>
             <br>&emsp;I share some of my experiences on academic, professional, and life success.<br>
          <strong> • 📖 How-To </strong>
@@ -32,7 +30,7 @@ title: 'Home'
             <br>&emsp;I originally started this blog as a creative outlet and a longer place for my Twitter rants. <br>
 </td>
         <td> &nbsp;&nbsp;</td>
-        <td style="vertical-align:top;" width="45%"><h2>Resources<br/>—</h2>
+        <td style="vertical-align:top;" width="45%" class="resources"><h2>Resources<br/>—</h2>
          <strong> • 📝 Professional </strong>
             <br>&emsp;A detailed portfolio of my experience is on my LinkedIn, but I have my CV and Resume for your convenience. <br>
          <a href="/media"> <strong> • 🎥 Media </strong> </a>

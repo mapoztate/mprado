@@ -42,8 +42,8 @@ const PostWrapper = styled.div`
       width: 100%;
     }
     
-    & h1 {
-      text-align: center;
+    & .explore, .resources {
+      text-align: left;
     }
 `;
 
