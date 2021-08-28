@@ -37,4 +37,8 @@ const LayoutWrapper = styled.div`
   & footer {
     margin-top: auto;
   }
+
+  & a {
+    color: white;  
+  }
 `;
