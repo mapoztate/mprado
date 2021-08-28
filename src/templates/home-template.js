@@ -36,7 +36,7 @@ const PostWrapper = styled.div`
   word-wrap: break-word;
 
   @media screen and (max-width: 1000px) {
-    & td {
+    & td, h1 {
       display: block;
       text-align: center;
       width: 100%;
