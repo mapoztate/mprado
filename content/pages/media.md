@@ -3,9 +3,6 @@ title: 'Media'
 template: 'page-template'
 ---
 
-# Media
-
-<p>&nbsp;</p>
 
 ### Articles
 * [Cyberlympics Unites Students Across the Bay Region](https://ictdmsector.org/cyberlympics-unites-students-across-the-bay-region/)
