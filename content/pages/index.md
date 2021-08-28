@@ -7,7 +7,7 @@ title: 'Home'
 
 <table>
     <tr>
-        <td style="vertical-align:top;" width="45%" >I'm a student with over 10 years of experience in information technology, computer science, and business. I'm seeking opportunities in the fields of quant finance, software engineering, and startup culture via telecommute or in the vicinity of the SF Bay Area.<br><br> On this site, I write blogs on my passions about twice monthly and am in the process of moving over my previous blogs from my old website after I revise them. In the mean time, you can check out my other platforms! <br><br>
+        <td style="vertical-align:top;" width="45%">I'm a student with over 10 years of experience in information technology, computer science, and business. I'm seeking opportunities in the fields of quant finance, software engineering, and startup culture via telecommute or in the vicinity of the SF Bay Area.<br><br> On this site, I write blogs on my passions about twice monthly and am in the process of moving over my previous blogs from my old website after I revise them. In the mean time, you can check out my other platforms! <br><br>
         <p align='center'>
         <a href="https://www.linkedin.com/in/mapoztate/"><img height="30" width="30" src="https://user-images.githubusercontent.com/71365470/122693012-d4f14200-d1ec-11eb-8852-4bd223d3b41f.png" alt="linkedin"></a>&nbsp;&nbsp;
         <a href="https://github.com/mapoztate"><img height="30" width="30" src="https://user-images.githubusercontent.com/71365470/122693123-4fba5d00-d1ed-11eb-9759-85e584827eb5.png" alt="github"></a>&nbsp;&nbsp;
@@ -19,4 +19,26 @@ title: 'Home'
     </tr>
 </table>
 
-<br> <br> 
+<hr>
+
+<table>
+    <tr>
+        <td style="vertical-align:top;" width="45%"><h2>Explore<br/>—</h2>
+         <strong> • 🎓 Advice </strong>
+            <br>&emsp;I share some of my experiences on academic, professional, and life success.<br>
+         <strong> • 📖 How-To </strong>
+            <br>&emsp;I post guides on walkthroughs of various projects and skill development.<br>
+         <strong> • 📢 Opinions </strong>
+            <br>&emsp;I originally started this blog as a creative outlet and a longer place for my Twitter rants. <br>
+</td>
+        <td> &nbsp;&nbsp;</td>
+        <td style="vertical-align:top;" width="45%"><h2>Resources<br/>—</h2>
+         <strong> • 📝 Professional </strong>
+            <br>&emsp;A detailed portfolio of my experience is on my LinkedIn, but I have my CV and Resume for your convenience. <br>
+         <a href="/media"> <strong> • 🎥 Media </strong> </a>
+            <br>&emsp;A compilation of my media/press appearances. <br>
+         <strong> • 💻 Equipment </strong>
+            <br>&emsp;A list of all the things I use; from school, gaming, work, to hobbies you can find it all here! <br>
+</td>
+    </tr>
+</table>
