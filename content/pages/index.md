@@ -22,21 +22,21 @@ title: 'Home'
 <table>
     <tr>
         <td style="vertical-align:top;" width="45%" class="explore"><h2>Explore<br/>—</h2>
-         <strong> • 🎓 Advice </strong>
+         <strong> • <a href="/"> 🎓 Advice </a></strong>
             <br>&emsp;I share some of my experiences on academic, professional, and life success.<br>
-         <strong> • 📖 How-To </strong>
+         <strong> • <a href="/"> 📖 How-To </a></strong>
             <br>&emsp;I post guides on walkthroughs of various projects and skill development.<br>
-         <strong> • 📢 Opinions </strong>
+         <strong> • <a href="/"> 📢 Opinions </a></strong>
             <br>&emsp;I originally started this blog as a creative outlet and a longer place for my Twitter rants. <br>
 </td>
         <td> &nbsp;&nbsp;</td>
         <td style="vertical-align:top;" width="45%" class="resources"><h2>Resources<br/>—</h2>
-         <strong> • 📝 Professional </strong>
-            <br>&emsp;A detailed portfolio of my experience is on my LinkedIn, but I have my CV and Resume for your convenience. <br>
-         <a href="/media"> <strong> • 🎥 Media </strong> </a>
+         <strong> • <a href="/"> 📝 Professional </a></strong>
+            <br>&emsp;A detailed portfolio of my experience is on my LinkedIn, but I have my <a href="/cv"> CV </a> and <a href="/resume"> Resume </a> for your convenience. <br>
+         <strong> • <a href="/media"> 🎥 Media  </a></strong>
             <br>&emsp;A compilation of my media/press appearances. <br>
-         <strong> • 💻 Equipment </strong>
-            <br>&emsp;A list of all the things I use; from school, gaming, work, to hobbies you can find it all here! <br>
+         <strong> • <a href="/"> 💻 Equipment </a></strong>
+            <br>&emsp;A list of all the things I use; from school & work to tech & other hobbies, you can find it all! <br>
 </td>
     </tr>
 </table>

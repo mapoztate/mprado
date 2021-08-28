@@ -14,8 +14,8 @@ module.exports = {
     },
     socialLinks: [
       {
-        name: 'CV',
-        url: '/cv',
+        name: '_',
+        url: '/',
       },
     ],
   },

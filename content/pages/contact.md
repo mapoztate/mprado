@@ -5,15 +5,11 @@ template: 'contact-template'
 
 # Contact Me!
 
-—
-
-
+<br>
 
 Want to get in touch? Feel free to contact me through [email](mailto:matthew.f.prado@valkyriepcs.com) or through this form right here!
 
-
-&nbsp;&nbsp;
-
+<br><br>
 
 <p align='center'>
 <a href="https://instagram.com/mapoztate"><img height="30" width="30" src="https://user-images.githubusercontent.com/71365470/123560229-db843a00-d755-11eb-93fb-1b37d4f37523.png" alt="instagram"></a>&nbsp;&nbsp;

@@ -1,12 +1,9 @@
 ---
 title: 'Media'
-profile_image: '/media/media-fill.png'
-template: 'about-template'
+template: 'page-template'
 ---
 
 # Media
-
-—
 
 <p>&nbsp;</p>
 

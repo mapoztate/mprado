@@ -42,6 +42,9 @@ const AboutWrapper = styled.div`
 
 const AboutImageWrapper = styled(GatsbyImage)`
   display: block;
+  border-radius: 50%;
+  height: 300px;
+  width: 300px;
 `;
 
 const AboutCopy = styled.div`
