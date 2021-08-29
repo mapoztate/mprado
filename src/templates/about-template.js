@@ -26,18 +26,13 @@ const AboutWrapper = styled.div`
   align-items: center;
   justify-content: space-around;
   height: 100%;
+  flex-direction: column;
 
-  @media screen and (max-width: 1000px) {
-    & {
-      flex-direction: column;
-    }
-
-    & > * {
-      margin-top: 2rem;
-      width: 100%;
-      text-align: center;
-    }
+  & > * {
+    margin-top: 2rem;
+    width: 100%;
   }
+  
 `;
 
 const AboutImageWrapper = styled(GatsbyImage)`
