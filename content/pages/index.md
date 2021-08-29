@@ -7,7 +7,7 @@ title: 'Home'
 
 <table>
     <tr>
-        <td style="vertical-align:top;" width="45%">A first-generation student with over 10 years of experience in information technology and computer science. I'm seeking opportunities in the fields of quant finance, software engineering, and startup culture via telecommute or in the vicinity of the SF Bay Area.<br><br> This site serves as a gateway to my digital life; you can find , I write blogs on my passions and am in the process of moving over my previous blogs from my old site after I revise them. <br><br>
+        <td style="vertical-align:top;" width="45%">A first-generation student with over 10 years of experience in information technology and computer science. I'm seeking opportunities in the fields of quant finance, software engineering, and startup culture via telecommute or in the vicinity of the SF Bay Area.<br><br> This site serves as a gateway to my digital life; I write blogs on my passions and am in the process of moving over my previous work from my old website. <br><br>
         <p align='center'>
         <a href="https://www.linkedin.com/in/mapoztate/"><img height="30" width="30" src="https://user-images.githubusercontent.com/71365470/122693012-d4f14200-d1ec-11eb-8852-4bd223d3b41f.png" alt="linkedin"></a>&nbsp;&nbsp;
         <a href="https://github.com/mapoztate"><img height="30" width="30" src="https://user-images.githubusercontent.com/71365470/122693123-4fba5d00-d1ed-11eb-9759-85e584827eb5.png" alt="github"></a>&nbsp;&nbsp;
