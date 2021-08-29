@@ -5,7 +5,7 @@ template: 'about-template'
 ---
 
 <div class = "heading"> <h2>About Me</h2>
-<h4>I'm a student dual enrolled in both full-time high school and community college studies. My majors are in Economics, Mathematics, and Business Administration. <h4> </div>
+<h4>I'm a student dual enrolled in full-time high school and community college studies. My majors are in Economics, Mathematics, and Business. <h4> </div>
 
 <br>
 

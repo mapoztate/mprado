@@ -33,6 +33,10 @@ const AboutWrapper = styled.div`
     width: 100%;
   }
   
+  & .heading {
+    text-align: center;
+  }
+
 `;
 
 const AboutImageWrapper = styled(GatsbyImage)`
