@@ -134,9 +134,6 @@ const ContactWrapper = styled.div`
 
 const ContactCopy = styled.div`
   max-width: 45ch;
-  & a {
-  color: white;  
-  }
   
   & img {
   display: inline;
