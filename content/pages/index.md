@@ -40,3 +40,7 @@ title: 'Home'
 </td>
     </tr>
 </table>
+
+<br>
+
+<div class="gfm-embed" style='width: 23%; margin: auto;' data-url="https://www.gofundme.com/f/alhambra-cs-club/widget/small/"></div><script defer src="https://www.gofundme.com/static/js/embed.js"></script>
