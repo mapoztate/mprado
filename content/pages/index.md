@@ -43,4 +43,4 @@ title: 'Home'
 
 <br>
 
-<div class="gfm-embed" style='width: 23%; margin: auto;' data-url="https://www.gofundme.com/f/alhambra-cs-club/widget/small/"></div><script defer src="https://www.gofundme.com/static/js/embed.js"></script>
+<div class="gfm-embed" style='background: #CCCCCC; height:50px; width: 230px; position: relative; margin: auto;' data-url="https://www.gofundme.com/f/alhambra-cs-club/widget/small/coffee"></div><script defer src="https://www.gofundme.com/static/js/embed.js"></script>
