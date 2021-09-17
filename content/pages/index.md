@@ -15,7 +15,7 @@ title: 'Home'
         <a href="mailto:matthew.f.prado@valkyriepcs.com"><img height="30" width="30" src="https://user-images.githubusercontent.com/71365470/123560224-daeba380-d755-11eb-9adb-c5a3b9de2fb8.png" alt="e-mail"></a>
         </p> </td>
         <td> &nbsp;&nbsp;</td>
-        <td width="45%"><img src="https://user-images.githubusercontent.com/71365470/130392839-7aa187c8-564a-4b01-8731-6516046662b4.jpg" alt="golden-gate"></img> </td>
+        <td width="45%"><img src="https://user-images.githubusercontent.com/71365470/133859364-5ea63cb6-311d-43b0-8bde-cf47a74eded8.jpg" alt="golden-gate"></img> </td>
     </tr>
 </table>
 <br><hr><br>
