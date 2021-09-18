@@ -31,7 +31,7 @@ title: 'Home'
 </td>
         <td> &nbsp;&nbsp;</td>
         <td style="vertical-align:top;" width="45%" class="resources"><h2>Resources<br/>—</h2>
-         <strong> • <a href="/"> 📝 Professional </a></strong>
+         <strong> • <u> 📝 Professional </u></strong>
             <br>&emsp;A detailed portfolio of my experience is on my LinkedIn, but I have my <a href="/cv"> CV</a> and <a href="/resume">Resume</a> for your convenience. <br>
          <strong> • <a href="/media"> 🎥 Media  </a></strong>
             <br>&emsp;A compilation of my media/press appearances. <br>
