@@ -5,12 +5,29 @@ template: 'page-template'
 
 <br>
 
-### Articles
-* [Cyberlympics Unites Students Across the Bay Region](https://ictdmsector.org/cyberlympics-unites-students-across-the-bay-region/)
-* [Bay Area Replicates Cyber Camp Success Online](https://ictdmsector.org/bay-area-replicates-cyber-camp-success-online/)
-* [Bay Area Cyber Competition Brings 'Bug Bounty' to High School Students](https://ictdmsector.org/bay-area-cyber-competition-brings-bug-bounty-to-high-school-students/)
-* [Cabrillo CIS Students Host Region-wide Cybersecurity Competition](https://www.santacruztechbeat.com/2020/01/21/cabrillo-cis-students-host-region-wide-cybersecurity-competition/)
-* [Cal Poly’s Cybersecurity Institute Hosts 400 Students at Cyber Innovation Challenge](https://calpolynews.calpoly.edu/news_releases/2020/october/cybersecurity)
+
+
+
+
+
+<table>
+    <tr>
+        <td style="vertical-align:top;" width="45%"> 
+          <h3> Articles </h3><br>
+• <a href="https://ictdmsector.org/cyberlympics-unites-students-across-the-bay-region/">Cyberlympics Unites Students Across the Bay Region</a> <br>
+• <a href="https://ictdmsector.org/bay-area-replicates-cyber-camp-success-online/">Bay Area Replicates Cyber Camp Success Online</a> <br>
+• <a href="https://ictdmsector.org/bay-area-cyber-competition-brings-bug-bounty-to-high-school-students/">Bay Area Cyber Competition Brings 'Bug Bounty' to High School Students</a> <br>
+• <a href="https://www.santacruztechbeat.com/2020/01/21/cabrillo-cis-students-host-region-wide-cybersecurity-competition/">Cabrillo CIS Students Host Region-wide Cybersecurity Competition</a> <br>
+• <a href="https://calpolynews.calpoly.edu/news_releases/2020/october/cybersecurity"> Cal Poly’s Cybersecurity Institute Hosts 400 Students at Cyber Innovation Challenge</a> <br>
+      </td>
+        <td> &nbsp;&nbsp;</td>
+        <td width="45%"><img src="https://user-images.githubusercontent.com/71365470/153845037-756da8cb-417a-4332-8906-b933f9238f36.png" alt=""></img> </td>
+    </tr>
+</table>
+<br><hr><br>
+<table>
+
+
 
 ### Podcasts
 * [Infosec Decoded #40](https://samsclass.info/news/news_062921.html)
