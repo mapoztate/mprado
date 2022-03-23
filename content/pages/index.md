@@ -7,7 +7,7 @@ title: 'Home'
 
 <table>
     <tr>
-        <td style="vertical-align:top;" width="45%">A first-generation student with over 10 years of experience in information technology and computer science. I'm seeking opportunities in the fields of software engineering, product management, and startup culture via telecommute or in the vicinity of the SF Bay Area.<br><br> This site serves as a gateway to my digital life; I write blogs on my passions and am in the process of moving over my previous work from my old website. <br><br>
+        <td style="vertical-align:top;" width="45%">A first-generation student with over 10 years of experience in information technology and computer science. I'm seeking opportunities in the fields of software engineering and product management via remote or in the vicinity of the SF Bay Area.<br><br> This site serves as a gateway to my digital life; I write blogs on my passions and am in the process of moving over my previous work from my old website. <br><br>
         <p align='center'>
         <a href="https://www.linkedin.com/in/mapoztate/"><img height="30" width="30" src="https://user-images.githubusercontent.com/71365470/122693012-d4f14200-d1ec-11eb-8852-4bd223d3b41f.png" alt="linkedin"></a>&nbsp;&nbsp;
         <a href="https://github.com/mapoztate"><img height="30" width="30" src="https://user-images.githubusercontent.com/71365470/122693123-4fba5d00-d1ed-11eb-9759-85e584827eb5.png" alt="github"></a>&nbsp;&nbsp;
@@ -15,7 +15,7 @@ title: 'Home'
         <a href="mailto:matthew.f.prado@valkyriepcs.com"><img height="30" width="30" src="https://user-images.githubusercontent.com/71365470/123560224-daeba380-d755-11eb-9adb-c5a3b9de2fb8.png" alt="e-mail"></a>
         </p> </td>
         <td> &nbsp;&nbsp;</td>
-        <td width="45%"><img src="https://user-images.githubusercontent.com/71365470/133859364-5ea63cb6-311d-43b0-8bde-cf47a74eded8.jpg" alt="golden-gate"></img> </td>
+        <td width="45%"><img src="/media/golden-gate.jpg" alt="golden-gate"></img> </td>
     </tr>
 </table>
 <br><hr><br>
@@ -40,7 +40,3 @@ title: 'Home'
 </td>
     </tr>
 </table>
-
-<br>
-
-<div class="gfm-embed" style='background: #23272a; height:50px; width: 230px; position: relative; margin: auto;' data-url="https://www.gofundme.com/f/alhambra-cs-club/widget/small/coffee"></div><script defer src="https://www.gofundme.com/static/js/embed.js"></script>
