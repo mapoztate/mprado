@@ -2,6 +2,7 @@
 title: 'The State of WoW'
 date: 2021-07-17
 tags: [video-games]
+social_image: '/media/golden-gate.jpg'
 description: Talking about streamers, corporate attitude, and the rise of other competitors.
 ---
 As someone who has been in the MMORPG genre ever since 2007, I think it's safe to say that I've seen the rise & dips of the MMO genre, and the many supposed "WoW-killers" that were to take its place. I've spent my fair time in all of those games, from 20k+ hours in WoW to 10k+ hours in Star Wars: The Old Republic. It's become quite apparent that the game that will kill the king isn't another game, but rather itself. Many people have already tried to predict the death of WoW, but if Shadowlands can make Warlords of Draenor look good, then I don't know what else could. 

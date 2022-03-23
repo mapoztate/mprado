@@ -2,6 +2,7 @@
 title: 'MJHS 2022 Questions'
 date: 2022-01-29
 tags: [education, high-school]
+social_image: '/media/golden-gate.jpg'
 description: I answer some of your questions about high school and CS.
 ---
 
