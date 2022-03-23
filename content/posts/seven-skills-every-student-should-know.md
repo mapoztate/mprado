@@ -2,7 +2,6 @@
 title: '7 Skills Every Student Should Know'
 date: 2021-08-22
 tags: [education]
-social_image: '/media/rocket.jpg'
 description: Things that you should know going into the new school year.
 ---
 It's that time of year again; students are going back to school shopping, planning out their course schedule, and cramming their approach for this year. If you're worried about going back in person this year, don't worry! Here are my top 7 things you should learn to make your school life easier.

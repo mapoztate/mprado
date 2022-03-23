@@ -2,7 +2,6 @@
 title: 'Halfway There'
 date: 2021-06-03
 tags: [ahs, education]
-social_image: '/media/rocket.jpg'
 description: A little sum up of events that has happened from my freshman year of high school to the start of my junior year.
 ---
 What can I say? It's been a hell of a rough two years; from having my last full year of academia in middle school to not going out at all within the first eight months...let's just say I could definitely be in a better spot right now. Physically, I could do a lot better, but I mean it's off season anyway. I can't speak for other people, but mentally, this has been an all-time high for me. I've had time to pursue my own hobbies, manage my schedule, and have a much well deserved mental break. I'd like to say I was the most prepared person for COVID to happen. Although I didn't see anyone personally, I kept in contact with many of my friends through video games, social media, and especially Discord. During school time, it allowed for more collaborative work which took a great deal off of everyone's shoulders and emphasized the flipped classroom model. I've always been against rote learning since it was purely based on memorization and only partially applicable to real life. Lectures were quite useless to me since I always learned better self studying and much of the curriculum developed for those classes were not meant to be adapted online. That being said, the opportunities that the flipped classroom model changed my life in ways that I never thought was possible.
