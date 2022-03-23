@@ -26,7 +26,7 @@ The community and stable release of content is solely the reason why I always re
 However, this also brings up large opportunities, with former Blizzard cofounder/ex-CEO Mike Morhaime's new company Dreamhaven and other partner studios that have the game developers who made the classics we know them. The freedom of indie dev projects with the experience of a veteran company is what Blizzard was at its peak. Made with love, passion, and a sense of community, these "classical" aspects of games before shareholders were involved are truly what the gaming community will always fall in love with.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/71365470/126051811-437aeb20-4d59-4907-a01e-eb309c585924.jpg" alt="SWTOR"/>
+  <img src="/media/blogimg/126051811-437aeb20-4d59-4907-a01e-eb309c585924.jpg" alt="SWTOR"/>
 </p>
 
 <p align="center">Here's to 10 more years of SWTOR!</p>

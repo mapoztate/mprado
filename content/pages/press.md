@@ -1,5 +1,5 @@
 ---
-title: 'Media'
+title: 'Press'
 template: 'page-template'
 ---
 
@@ -21,7 +21,7 @@ template: 'page-template'
     &emsp; • <a href="https://calpolynews.calpoly.edu/news_releases/2020/october/cybersecurity"> Cal Poly’s Cybersecurity Institute Hosts 400 Students at Cyber Innovation Challenge</a> <br>
       </td>
         <td> &nbsp;&nbsp;</td>
-        <td width="45%"><img src="https://user-images.githubusercontent.com/71365470/153845037-756da8cb-417a-4332-8906-b933f9238f36.png" alt=""></img> </td>
+        <td width="45%"><img src="/media/press.png" alt=""></img> </td>
     </tr>
 </table>
 <br><br>

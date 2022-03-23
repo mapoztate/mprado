@@ -10,4 +10,4 @@ template: 'about-template'
 <br>
 I'm a third year student at Alhambra Senior High, and a second year student at Diablo Valley College with the intention of applying to a 4 year college after high school graduation. I've taken an interest in creating products that make people's lives easier, whether that means managing a team or building it with my own hands.
   
-If I'm not drafting some crazy new venture I had or coding a random project, you can find me playing games, trying new foods, or building something with my two hands.
+If I'm not drafting some crazy new venture I had or coding a random project, you can find me playing games, trying new foods, or going crazy at the gym.
