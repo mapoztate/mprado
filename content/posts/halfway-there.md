@@ -36,7 +36,7 @@ Time has gone too fast; I still think I'm a freshman, but it's crazy to think th
 
 
 <p align="center">
-  <img src="/media/blogimg\120701292-865f4c00-c467-11eb-91db-6d2cc6298849.png" alt="me, tam, and layna"/>
+  <img src="/media/blogimg/120701292-865f4c00-c467-11eb-91db-6d2cc6298849.png" alt="me, tam, and layna"/>
 </p>
 
 <p align="center">Quarantine vibes! | Taken Oct. 23, 2020</p>
