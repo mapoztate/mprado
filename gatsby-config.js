@@ -59,6 +59,7 @@ module.exports = {
             resolve: `gatsby-remark-images`,
             options: {
               maxWidth: 630,
+              backgroundColor: 'transparent',
             },
           },
           {
@@ -149,7 +150,7 @@ module.exports = {
         short_name: `mprado.ml`,
         start_url: `/`,
         background_color: `#ffffff`,
-        theme_color: `#663399`,
+        theme_color: `#000000`,
         display: `minimal-ui`,
         icon: `src/images/icon.png`,
       },
