@@ -148,7 +148,7 @@ p, li {
 }
 
 .gatsby-resp-image-wrapper {
-    margin-left: 0 !important;
+    width: 100%;
 }
 
 
