@@ -12,7 +12,9 @@ template: 'page-template'
 
 <table>
     <tr>
-        <td style="vertical-align:top;" width="45%"> 
+      <td width="45%"><img src="/media/press.png" alt=""></img> </td>
+            <td> &nbsp;&nbsp;</td>
+      <td style="vertical-align:top;" width="45%"> 
           <h3> Articles </h3><br>
     &emsp; • <a href="https://ictdmsector.org/cyberlympics-unites-students-across-the-bay-region/">Cyberlympics Unites Students Across the Bay Region</a> <br>
     &emsp; • <a href="https://ictdmsector.org/bay-area-replicates-cyber-camp-success-online/">Bay Area Replicates Cyber Camp Success Online</a> <br>
@@ -20,9 +22,8 @@ template: 'page-template'
     &emsp; • <a href="https://www.santacruztechbeat.com/2020/01/21/cabrillo-cis-students-host-region-wide-cybersecurity-competition/">Cabrillo CIS Students Host Region-wide Cybersecurity Competition</a> <br>
     &emsp; • <a href="https://calpolynews.calpoly.edu/news_releases/2020/october/cybersecurity"> Cal Poly’s Cybersecurity Institute Hosts 400 Students at Cyber Innovation Challenge</a> <br>
       </td>
-        <td> &nbsp;&nbsp;</td>
-        <td width="45%"><img src="/media/press.png" alt=""></img> </td>
-    </tr>
+        
+  </tr>
 </table>
 <br><br>
 

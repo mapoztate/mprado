@@ -28,7 +28,6 @@ const PostWrapper = styled.div`
   @media screen and (max-width: 1000px) {
     & td, h1 {
       display: block;
-      text-align: center;
       width: 100%;
     }
 `;
