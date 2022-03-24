@@ -80,13 +80,6 @@ const PostWrapper = styled.div`
   margin-right: auto;
   max-width: 70ch;
   word-wrap: break-word;
-
-  @media screen and (max-width: 1000px) {
-    & td, h1 {
-      display: block;
-      text-align: center;
-      width: 100%;
-    }
 `;
 
 const PostTitle = styled.h1`
