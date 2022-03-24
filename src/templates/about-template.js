@@ -26,17 +26,18 @@ const AboutWrapper = styled.div`
   align-items: center;
   justify-content: space-around;
   height: 100%;
-  flex-direction: column;
-
-  & > * {
-    margin-top: 2rem;
-    width: 100%;
-  }
   
-  & .heading {
-    text-align: center;
+  @media screen and (max-width: 1000px) {
+    & {
+      flex-direction: column;
+    }
+    
+    & > * {
+      margin-top: 2rem;
+      width: 100%;
+      text-align: center;
+    }
   }
-
 `;
 
 const AboutImageWrapper = styled(GatsbyImage)`
