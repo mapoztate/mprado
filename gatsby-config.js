@@ -5,7 +5,7 @@ module.exports = {
       name: `Matthew Prado`,
       summary: `A simple man doing complicated things.`,
     },
-    description: `I'm Matthew Prado, a junior in high school with experience in business and CS. Led many projects in cybersecurity, finance, and information technology.`,
+    description: `Hi, I'm Matt! I'm a student interested in CS and business, and my blog serves as a medium to express all of the wonderful joys I experience in life.`,
     siteUrl: `https://www.mprado.ml`,
     social: {
       twitter: `mapoztate`,
