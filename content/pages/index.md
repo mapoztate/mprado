@@ -7,7 +7,7 @@ title: 'Home'
 
 <table>
     <tr>
-        <td style="vertical-align:top;" width="45%">A first-generation student with over 10 years of experience in information technology and computer science. I'm seeking opportunities in the fields of software engineering and product management via remote or in the vicinity of the SF Bay Area.<br><br> This site serves as a gateway to my digital life; I write blogs on my passions and am in the process of moving over my previous work from my old website. <br><br>
+        <td style="vertical-align:top;" width="45%">A first-generation student with over 10 years of experience in information technology and computer science. I'm seeking opportunities in the fields of software engineering and product management via remote or in the vicinity of the SF Bay Area.<br><br> I'm still working on getting these blogs up to speed, so forgive me if some of the information seems incomplete. <br><br>
         <p align='center'>
         <a href="https://www.linkedin.com/in/mapoztate/"><img height="30" width="30" src="https://user-images.githubusercontent.com/71365470/122693012-d4f14200-d1ec-11eb-8852-4bd223d3b41f.png" alt="linkedin"></a>&nbsp;&nbsp;
         <a href="https://github.com/mapoztate"><img height="30" width="30" src="https://user-images.githubusercontent.com/71365470/122693123-4fba5d00-d1ed-11eb-9759-85e584827eb5.png" alt="github"></a>&nbsp;&nbsp;
@@ -31,8 +31,8 @@ title: 'Home'
 </td>
         <td> &nbsp;&nbsp;</td>
         <td style="vertical-align:top;" width="45%" class="resources"><h2>Resources<br/>—</h2>
-         <strong> • <u> 📝 Professional </u></strong>
-            <br>&emsp;A detailed portfolio of my experience is on my LinkedIn, but I have my <a href="/cv"> CV</a> and <a href="/resume">Resume</a> for your convenience. <br>
+         <strong> • <a href="/cv"> 📝 Professional </a></strong>
+            <br>&emsp;I use several resumes depending on the job I'm applying for, but I've linked my CV for your convenience. <br>
          <strong> • <a href="/press"> 🎥 Press </a></strong>
             <br>&emsp;A compilation of my media/press appearances. <br>
          <strong> • <a href="/media/files/BLS.pdf"> 💻 Equipment </a></strong>
