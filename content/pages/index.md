@@ -12,7 +12,7 @@ title: 'Home'
         <a href="https://www.linkedin.com/in/mapoztate/"><img height="30" width="30" src="https://user-images.githubusercontent.com/71365470/122693012-d4f14200-d1ec-11eb-8852-4bd223d3b41f.png" alt="linkedin"></a>&nbsp;&nbsp;
         <a href="https://github.com/mapoztate"><img height="30" width="30" src="https://user-images.githubusercontent.com/71365470/122693123-4fba5d00-d1ed-11eb-9759-85e584827eb5.png" alt="github"></a>&nbsp;&nbsp;
         <a href="tel:+1-925-269-7163"><img height="30" width="30" src="https://raw.githubusercontent.com/mapoztate/mapoztate/main/assets/icons/phone-fill.png" alt="phone"></a>&nbsp;&nbsp;
-        <a href="mailto:matthew.f.prado@valkyriepcs.com"><img height="30" width="30" src="https://user-images.githubusercontent.com/71365470/123560224-daeba380-d755-11eb-9adb-c5a3b9de2fb8.png" alt="e-mail"></a>
+        <a href="mailto:matt@mapoztate.com"><img height="30" width="30" src="https://user-images.githubusercontent.com/71365470/123560224-daeba380-d755-11eb-9adb-c5a3b9de2fb8.png" alt="e-mail"></a>
         </p> </td>
         <td> &nbsp;&nbsp;</td>
         <td width="45%"><img src="/media/golden-gate.jpg" alt="golden-gate"></img> </td>
@@ -34,8 +34,8 @@ title: 'Home'
          <strong> • <a href="/cv"> 📝 Professional </a></strong>
             <br>&emsp;I use several resumes depending on the job I'm applying for, but I've linked my CV for your convenience. <br>
          <strong> • <a href="/press"> 🎥 Press </a></strong>
-            <br>&emsp;A compilation of my media/press appearances. <br>
-         <strong> • <a href="/media/files/BLS.pdf"> 💻 Equipment </a></strong>
+            <br>&emsp;A compilation of my media appearances. <br>
+         <strong> • <a href="/"> 💻 Equipment </a></strong>
             <br>&emsp;A list of all the things I use; from school & work to tech & other hobbies, you can find it all! <br>
 </td>
     </tr>

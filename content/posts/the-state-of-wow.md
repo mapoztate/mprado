@@ -5,6 +5,8 @@ tags: [video-games]
 social_image: '/media/golden-gate.jpg'
 description: Talking about streamers, corporate attitude, and the rise of other competitors.
 ---
+Opinion reflects time of publishing.
+
 As someone who has been in the MMORPG genre ever since 2007, I think it's safe to say that I've seen the rise & dips of the MMO genre, and the many supposed "WoW-killers" that were to take its place. I've spent my fair time in all of those games, from 20k+ hours in WoW to 10k+ hours in Star Wars: The Old Republic. It's become quite apparent that the game that will kill the king isn't another game, but rather itself. Many people have already tried to predict the death of WoW, but if Shadowlands can make Warlords of Draenor look good, then I don't know what else could. 
 
 `But the truest victory, my son, is stirring the hearts of your people. I tell you this, for when my days have come to and end, you...shall be king.`
@@ -17,7 +19,7 @@ I knew that revival projects such as Classic WoW, TBC, and beyond were going to 
 
 Asmongold's transition to FFXIV did not solely cause the game to plummet. It was an effect that content in WoW was getting stale, and that the company behind it no longer respects the gamer's time. People transitioned to other games because WoW was dying, not the other way around. Asmon had a huge influence in where people went, and the social media drama between Activision's employees and other large media figures drove the nail further in the coffin. I'm not one to talk about employee business as I don't know what goes on in Activision, but reports have reported anything but positivity.
 
-Other large variety creators, [like shroud and summit](https://twitter.com/mapoztate/status/1416172730429308930), have begun to explore other MMORPGs as well, particularly SWTOR. "Forgotten" games have revived in player population, and people are starting to see that these games are active and well maintained. These games had their loyal population and other players in the middle of WoW's occasional content drought, but the introduction of these classic MMOs to a younger audience will just make the game even better. 
+Other large variety creators, like shroud and summit1g, have begun to explore other MMORPGs as well, particularly SWTOR. "Forgotten" games have revived in player population, and people are starting to see that these games are active and well maintained. These games had their loyal population and other players in the middle of WoW's occasional content drought, but the introduction of these classic MMOs to a younger audience will just make the game even better. 
 
 These games aren't perfect as they suffer from age, the somewhat dying MMORPG genre, and the same corporate pressure that killed Blizzard. In specific, SWTOR suffers from drifting the gray line between the Star Wars IPO, lack of budget from BioWare's focus on other projects, and the game's base infrastructure built on the 11yr old outdated Hero Engine. This makes it tougher for BioWare Austin to have a harder time creating DLC, as well as perform critical updates on the game for it to run smoother on modern computers. Despite all these hard comings, what matters most is that these game developers still have a sense of what their player base truly wants and are not disconnected from them. 
 

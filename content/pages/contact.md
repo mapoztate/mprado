@@ -7,7 +7,7 @@ template: 'contact-template'
 
 <br>
 
-Want to get in touch? Feel free to contact me through [email](mailto:matthew.f.prado@valkyriepcs.com) or through this form right here!
+Want to get in touch? Feel free to contact me through [email](mailto:matt@mapoztate.com) or through this form right here!
 
 <br><br>
 

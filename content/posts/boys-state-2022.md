@@ -3,6 +3,7 @@ title: 'My CA Boys State Experience'
 date: 2022-06-24
 tags: [ahs, education, high-school]
 social_image: '/media/golden-gate.jpg'
+description: Reviewing Boys State - it's a lot different from the movie.
 ---
 **Overview**:
 

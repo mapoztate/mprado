@@ -147,7 +147,7 @@ module.exports = {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `Matthew Prado`,
-        short_name: `mprado.ml`,
+        short_name: `mapoztate.com`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#000000`,
