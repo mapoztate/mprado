@@ -61,9 +61,3 @@ I didn't take the exam for this test, but I did take the class on independent st
 This class was pretty useless to me. While I thoroughly enjoy reading literature and analyzing it past its surface level meaning, this class was pretty useless to me. The amount of added courseload is too time consuming for its little reward (for the UCs, you can't get addtional credit if you passed AP English Language). I'd wanted to drop this class at the beginning of the year, but my high school's 4 year graduation requirement and risk of GPA dip forced me to stay in it.
 
 The AP exam requires you to have knowledge of various literary works. From poetry to long novels, you should be exposed to all types of works throughout all time periods. Make sure to practice the timed write and read the literature that your teacher gives you.
-
-<p align="center">
-  <img src="/media/blogimg/126051811-437aeb20-4d59-4907-a01e-eb309c585924.jpg" alt="SWTOR"/>
-</p>
-
-<p align="center">Here's to 10 more years of SWTOR!</p>
