@@ -1,7 +1,7 @@
 ---
 title: 'The State of WoW'
 date: 2021-07-17
-tags: [video-games]
+tags: [video-games, mmos]
 social_image: '/media/golden-gate.jpg'
 description: Talking about streamers, corporate attitude, and the rise of other competitors.
 ---
