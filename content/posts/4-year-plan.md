@@ -1,6 +1,6 @@
 ---
-title: 'Pregaming College App Season: A Decades Long Strategy'
-date: 2021-08-24
+title: 'The 4 Year High School Plan'
+date: 2021-10-24
 tags: [high-school, education]
 social_image: '/media/golden-gate.jpg'
 description: A plan that works for everyone toward making the best use of your time at high school.
