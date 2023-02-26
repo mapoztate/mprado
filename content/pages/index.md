@@ -7,7 +7,8 @@ title: 'Home'
 
 <table>
     <tr>
-        <td style="vertical-align:top;" width="45%">A first-generation student with over 10 years of experience in information technology and computer science. I'm seeking opportunities in the fields of software engineering and product management via remote or in the vicinity of the SF Bay Area.<br><br> I'm still working on getting these blogs up to speed, so forgive me if some of the information seems incomplete. <br><br>
+        <td style="vertical-align:top;" width="45%"> Welcome to my personal blog, where I write about all things education, tech, and just about anything else that I love. I'm still working on getting these blogs up to speed from my old website, so forgive me if some of the information seems incomplete. If you want to find out more about me professionally, check out my about page.
+        <br><br> If you want to see my cybersecurity work, I'm an occassional author on the <a href="https://3waystoheck.netlify.app/">3 Ways to Heck</a> blog as well. <br><br>
         <p align='center'>
         <a href="https://www.linkedin.com/in/mapoztate/"><img height="30" width="30" src="https://user-images.githubusercontent.com/71365470/122693012-d4f14200-d1ec-11eb-8852-4bd223d3b41f.png" alt="linkedin"></a>&nbsp;&nbsp;
         <a href="https://github.com/mapoztate"><img height="30" width="30" src="https://user-images.githubusercontent.com/71365470/122693123-4fba5d00-d1ed-11eb-9759-85e584827eb5.png" alt="github"></a>&nbsp;&nbsp;
