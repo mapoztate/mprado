@@ -29,3 +29,4 @@ template: 'page-template'
 
 ### Podcasts
 * [Infosec Decoded #40](https://samsclass.info/news/news_062921.html)
+* [Cyber Pro Podcast #255](https://open.spotify.com/show/7DK84gmUPUmuOS424Ftf1z)
