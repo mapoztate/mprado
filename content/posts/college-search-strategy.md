@@ -1,17 +1,24 @@
 ---
-title: 'The College Search Strategy'
+title: 'Finding the right colleges'
 date: 2023-04-27
 tags: [education, high-school]
 social_image: '/media/golden-gate.jpg'
 description: Harvard, Stanford, MIT might be tempting, but a good list is just as important.
 ---
+### What to expect:
+* Intro
+* The initial search
+* Knowing where you stand
+* Trimming the fat
+* An example
+* Shotgunning vs rifling
+* Ending thoughts
 
-It's almost May 1st! And with that is the last day to finally choose your college! Check out my video [here]() if you're interested in my own college decisions video.
+*Posted a bit early since a friend asked for it.*
 
-I'll be talking about how to get an initial batch of schools, and how to sort them out between safety, target, and reach schools.
+It's almost May 1st! And with that is the last day to finally choose your college! I'll be talking about how to get an initial batch of schools, and how to sort them out between safety, target, and reach schools.
 
 ### The initial search
-
 Ask yourself a couple questions before you start searching. Do you want to stay in state / near home? Do you have enough money to afford private colleges? Are you going after the prestige? Once you have these questions answered, look for colleges that would fit this criteria.
 
 Start off with 40 colleges that you'd like to attend. Have at least two safety schools that are near home, and you can expand from there.
@@ -19,8 +26,8 @@ Start off with 40 colleges that you'd like to attend. Have at least two safety s
 __What do safety, target, and reach schools mean?__
 A safety school is one that you're probably guaranteed to get into. A target school is one that you have a good shot of getting into, but still open to the possibility of getting rejected. Lastly, a reach school is one that you probably will not get into, but are trying anyway.
 
-### Trimming the fat
 
+### Trimming the fat
 - Acceptance rate
     * You can't rely on acceptance rates just by looking them up. Acceptance rates have been dramatically lowered with the advent of shotgunning (more on this later) as well as dependant on the major you select.
 - Cost
@@ -35,8 +42,7 @@ A safety school is one that you're probably guaranteed to get into. A target sch
 In the end, have at least 5 schools you'll want to pick. Two safeties, two targets, one reach.
 
 ### An example
-
-Let's try this with the school I'm committed to, UC Berkeley. 
+Let's try this with my dream school, and the one I'm committed to, **UC Berkeley**. 
 
 UC Berkeley's acceptance rate toward computing related majors is capped, and highly competitive, which immediately puts this in high target, low reach. I don't have this higher since I'm a California resident, and attended community college. However, they released new information which actually put the acceptance rate similar to, if not lower, than Stanford's; I'd recategorize this into reach.
 
@@ -49,7 +55,6 @@ Vibe. During high school, you could pretty much call me a psuedo-Berkeley studen
 Berkeley? Extremely high on the rankings.
 
 ### Shotgunning vs rifling
-
 You may hear students talking about "shotgunning" to 20+ schools. Shotgunning refers to applying to a large amount of "reach" schools since quantity > quality. In the end, I only recommend this strategy if you start this early to really put good effort on your essays and have a lot of cash to burn.
 
 The more traditional approach, "rifling", is the one I'd advise everyone else to take. It's a more safe and budget-friendly apporach where you do an even split of schools, ie: 2 safeties, 4 targets, 2 reaches. 
@@ -58,7 +63,6 @@ To tell you the truth, I don't really reccommend it, especially if there are sch
 
 
 ### Final thoughts
+The best way to approach this: don't have a dream school, but have a dream safety; you'll feel a lot better in the end. If you get rejected, don't feel too bad, and just probably know it's for the best.
 
-The best way to approach this: don't have a dream school, but have a dream safety. You'll feel a lot better in the end. If you get rejected, don't feel too bad, and just probably know it's for the best :)
-
-If you have any questions, feel free to leave a comment!
+**This article is part of a whole guide to getting into college. View it [here!](/collegeapp)**

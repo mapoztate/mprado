@@ -1,7 +1,7 @@
 ---
 title: 'Halfway There'
 date: 2021-06-03
-tags: [ahs, education]
+tags: [ahs, education, personal]
 social_image: '/media/golden-gate.jpg'
 description: A little sum up of events that has happened from my freshman year of high school to the start of my junior year.
 ---

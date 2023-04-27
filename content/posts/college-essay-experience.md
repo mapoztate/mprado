@@ -1,11 +1,11 @@
 ---
-title: 'The College & Scholarship Essay Experience'
+title: 'Writing your college & scholarship essays'
 date: 2022-07-30
 tags: [education, high-school]
 social_image: '/media/golden-gate.jpg'
 description: I hate college app season; high school edition.
 ---
-### Table of Contents:
+### What to expect:
 * Intro
 * The Multi-Year Strategy
 * Writing
@@ -22,7 +22,7 @@ For starters, I spent a lot of hours brainstorming and writing my first drafts o
 If you're a transfer student, most of these tips should still apply except for the multi-year strategy. 
 
 ### The Multi-Year Strategy
-Planning is your best friend, so as such, you need to start early. Refer to [this](/blog/maximizing-your-time-in-high-school) article if you haven't read it yet!
+Planning is your best friend, so as such, you need to start early. Refer to [this](/blog/maximizing-your-time-in-high-school) article if you haven't read it yet.
 
 I'd start planning for topics as early as summer in your senior year, if not earlier if you have ideas you're certain you're going to write about. Having at least a first draft of your essays is so useful by the time school comes out as it really takes all the pressure off your hands. Think about things you have strong feelings about, not necessarily what you think may be the most impressive as that's what your EC list is for. You need to be able to write strongly about a topic so that creating the long first draft is easier and all that remains is trimming the fat off.
 
@@ -38,7 +38,7 @@ Examples of interview-based papers
 * Why this school
 * Proposing a solution to a problem
 
-Make sure you look at the prompt carefully and answer ALL parts of the question. Be careful if the question says `and` or `or` as they mean completely different things and you can definitely lose points for ignoring parts of the prompt. 
+Make sure you look at the prompt carefully and answer ALL parts of the question. Be careful if the question says **and** or **or** as they mean completely different things and you can definitely lose points for ignoring parts of the prompt. 
 
 ### Reusing essays
 You shouldn't be writing unique essays for each one. By that, I mean you can reuse integral parts from other essays as long as you can change the minute details to adapt to the prompt. You can reuse things that you haven't brought up in that school yet.
@@ -69,8 +69,9 @@ I've personally used ChatGPT to get ideas on how to rephrase clunky sentences, o
 ### Ending thoughts
 No one can guarantee what school you do/don't get into, it truly depends on the mood of your admissions officer/committee. I've truly seen some random selections; don't beat yourself up over not getting in.
 
-### Links (coming soon after my decisions are done):
-* UCs (Personal Insight Questions):
-* Common App:
-* Supplemental Essays:
-* Sample Scholarship Paper:
+### My own essays:
+* [UCs (Personal Insight Questions)](https://docs.google.com/document/d/11-iTz23Mr7_zKWPkBQJwGuWgQ1G6ucko47PY5Jz7bqo/edit?usp=sharing)
+* [Common App](https://docs.google.com/document/d/1wBuZc6wnQnmIqpE0upQiJ9SHMqeK4CaPlT__yURJZcw/edit#heading=h.3ydlgurcrm3j)
+* [Supplemental Essays](https://docs.google.com/document/d/13mjvFVhSmw0J-EIZJ8s93UQXsngZ-HdKI-kckQcgUcg/edit#heading=h.ehkaezh90ta2)
+
+**This article is part of a whole guide to getting into college. View it [here!](/collegeapp)**
