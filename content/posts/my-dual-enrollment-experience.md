@@ -1,5 +1,5 @@
 ---
-title: 'How I got two associates' degrees in high school'
+title: 'How I got two associates degrees in high school'
 date: 2023-05-17
 tags: [ahs, education, high-school]
 social_image: '/media/golden-gate.jpg'
