@@ -5,6 +5,7 @@ tags: [high-school, education]
 social_image: '/media/golden-gate.jpg'
 description: A plan that works for everyone toward making the best use of your time at high school.
 ---
+This is the school-friendly version of the plan; if you want to see a full, comprehensive guide, this article is part of a whole guide to getting into college. View it [here!](/collegeapp)
 
 ### Freshman year - 
 * GRADES ARE NOT ENOUGH.
