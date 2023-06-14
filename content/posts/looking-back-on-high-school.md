@@ -1,11 +1,11 @@
 ---
-title: 'Looking back'
+title: 'Looking back on high school'
 date: 2023-06-02
 tags: [ahs, education, personal]
 social_image: '/media/golden-gate.jpg'
 description: After a very short thirteen years, I'm finally done.
 ---
-It's crazy to say I just graduated high school yesterday. So let's check-in with myself before I start start off my streak of 50 grad parties...
+It's crazy to say I just graduated high school yesterday. So let's check-in with myself before I start off my streak of 50 grad parties...
 
 It's been exactly two years since Halfway There. Let's see what I got done.
 

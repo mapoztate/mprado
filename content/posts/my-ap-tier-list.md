@@ -1,5 +1,5 @@
 ---
-title: 'My AP Experience'
+title: 'My AP Tier List (with explanation)'
 date: 2022-08-18
 tags: [education, high-school]
 social_image: '/media/golden-gate.jpg'

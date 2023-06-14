@@ -1,5 +1,5 @@
 ---
-title: 'Choose Your HS ECs Wisely'
+title: 'Pick Your High School Extracurriculars Wisely'
 date: 2021-06-16
 tags: [education, high-school]
 social_image: '/media/golden-gate.jpg'
