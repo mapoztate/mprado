@@ -7,7 +7,9 @@ template: 'about-template'
 <div class = "heading"> <h2>About Me</h2>
 
 <br>
-I'm a first-generation student and a part of UC Berkeley's Class of 2025, studying Data Science with an emphasis in Business Analytics. I've been interested in tech ever since I was young, and have over 10+ years of experience in the information technology and computer science sector. I'm currently interested in software engineering (specifically security/SRE/DevOps) and product management opportunities via remote or within the SF Bay Area.
+
+Currently triple majoring in Data Science, Environmental Economics & Policy, and South & Southeast Asian Studies at UC Berkeley. I'm exploring adjacent topics in data engineering including security, virtualization, and product, with research interests in computational social science (i.e. privacy/algorithmic disgorgement, socioeconomics) and computer science pedagogy. Please refer to my LinkedIn/CV for more information regarding my professional/academic experience.
 
 <br><br>
-I've taken an interest in creating products that make people's lives easier, whether that means managing a team or building it with my own hands. If I'm not drafting some crazy new venture I had or coding a random project, you can find me playing games, trying new foods, or going crazy at the gym.
+
+***Any article written on this website is my opinion, and my opinion only; it does not represent any organization I may be affiliated with.***
