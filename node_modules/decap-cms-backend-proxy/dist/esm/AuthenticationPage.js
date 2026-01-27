@@ -1,0 +1,51 @@
+import _styled from "@emotion/styled/base";
+function _EMOTION_STRINGIFIED_CSS_ERROR__() { return "You have tried to stringify object returned from `css` function. It isn't supposed to be used directly (e.g. as value of the `className` prop), but rather handed to emotion so it can handle it (e.g. as value of `css` prop)."; }
+import React from 'react';
+import PropTypes from 'prop-types';
+import { Icon, buttons, shadows, GoBackButton, renderPageLogo } from 'decap-cms-ui-default';
+import { jsx as ___EmotionJSX } from "@emotion/react";
+const StyledAuthenticationPage = /*#__PURE__*/_styled("section", {
+  target: "e1ektlme1",
+  label: "StyledAuthenticationPage"
+})(process.env.NODE_ENV === "production" ? {
+  name: "8azftg",
+  styles: "display:flex;flex-flow:column nowrap;align-items:center;justify-content:center;height:100vh"
+} : {
+  name: "8azftg",
+  styles: "display:flex;flex-flow:column nowrap;align-items:center;justify-content:center;height:100vh/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uLy4uL3NyYy9BdXRoZW50aWNhdGlvblBhZ2UuanMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBSytDIiwiZmlsZSI6Ii4uLy4uL3NyYy9BdXRoZW50aWNhdGlvblBhZ2UuanMiLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgUmVhY3QgZnJvbSAncmVhY3QnO1xuaW1wb3J0IFByb3BUeXBlcyBmcm9tICdwcm9wLXR5cGVzJztcbmltcG9ydCBzdHlsZWQgZnJvbSAnQGVtb3Rpb24vc3R5bGVkJztcbmltcG9ydCB7IEljb24sIGJ1dHRvbnMsIHNoYWRvd3MsIEdvQmFja0J1dHRvbiwgcmVuZGVyUGFnZUxvZ28gfSBmcm9tICdkZWNhcC1jbXMtdWktZGVmYXVsdCc7XG5cbmNvbnN0IFN0eWxlZEF1dGhlbnRpY2F0aW9uUGFnZSA9IHN0eWxlZC5zZWN0aW9uYFxuICBkaXNwbGF5OiBmbGV4O1xuICBmbGV4LWZsb3c6IGNvbHVtbiBub3dyYXA7XG4gIGFsaWduLWl0ZW1zOiBjZW50ZXI7XG4gIGp1c3RpZnktY29udGVudDogY2VudGVyO1xuICBoZWlnaHQ6IDEwMHZoO1xuYDtcblxuY29uc3QgTG9naW5CdXR0b24gPSBzdHlsZWQuYnV0dG9uYFxuICAke2J1dHRvbnMuYnV0dG9ufTtcbiAgJHtzaGFkb3dzLmRyb3BEZWVwfTtcbiAgJHtidXR0b25zLmRlZmF1bHR9O1xuICAke2J1dHRvbnMuZ3JheX07XG5cbiAgcGFkZGluZzogMCAzMHB4O1xuICBtYXJnaW4tdG9wOiAwO1xuICBkaXNwbGF5OiBmbGV4O1xuICBhbGlnbi1pdGVtczogY2VudGVyO1xuICBwb3NpdGlvbjogcmVsYXRpdmU7XG5cbiAgJHtJY29ufSB7XG4gICAgbWFyZ2luLXJpZ2h0OiAxOHB4O1xuICB9XG5gO1xuXG5leHBvcnQgZGVmYXVsdCBjbGFzcyBBdXRoZW50aWNhdGlvblBhZ2UgZXh0ZW5kcyBSZWFjdC5Db21wb25lbnQge1xuICBzdGF0aWMgcHJvcFR5cGVzID0ge1xuICAgIG9uTG9naW46IFByb3BUeXBlcy5mdW5jLmlzUmVxdWlyZWQsXG4gICAgaW5Qcm9ncmVzczogUHJvcFR5cGVzLmJvb2wsXG4gICAgY29uZmlnOiBQcm9wVHlwZXMub2JqZWN0LmlzUmVxdWlyZWQsXG4gICAgdDogUHJvcFR5cGVzLmZ1bmMuaXNSZXF1aXJlZCxcbiAgfTtcblxuICBjb21wb25lbnREaWRNb3VudCgpIHtcbiAgICAvLyBNYW51YWxseSB2YWxpZGF0ZSBQcm9wVHlwZXMgLSBSZWFjdCAxOSBicmVha2luZyBjaGFuZ2VcbiAgICBQcm9wVHlwZXMuY2hlY2tQcm9wVHlwZXMoXG4gICAgICBBdXRoZW50aWNhdGlvblBhZ2UucHJvcFR5cGVzLFxuICAgICAgdGhpcy5wcm9wcyxcbiAgICAgICdwcm9wJyxcbiAgICAgICdBdXRoZW50aWNhdGlvblBhZ2UnLFxuICAgICk7XG4gIH1cblxuICBoYW5kbGVMb2dpbiA9IGUgPT4ge1xuICAgIGUucHJldmVudERlZmF1bHQoKTtcbiAgICB0aGlzLnByb3BzLm9uTG9naW4odGhpcy5zdGF0ZSk7XG4gIH07XG5cbiAgcmVuZGVyKCkge1xuICAgIGNvbnN0IHsgY29uZmlnLCBpblByb2dyZXNzLCB0IH0gPSB0aGlzLnByb3BzO1xuXG4gICAgcmV0dXJuIChcbiAgICAgIDxTdHlsZWRBdXRoZW50aWNhdGlvblBhZ2U+XG4gICAgICAgIHtyZW5kZXJQYWdlTG9nbyhjb25maWcubG9nbz8uc3JjIHx8IGNvbmZpZy5sb2dvX3VybCl9XG4gICAgICAgIDxMb2dpbkJ1dHRvbiBkaXNhYmxlZD17aW5Qcm9ncmVzc30gb25DbGljaz17dGhpcy5oYW5kbGVMb2dpbn0+XG4gICAgICAgICAge2luUHJvZ3Jlc3MgPyB0KCdhdXRoLmxvZ2dpbmdJbicpIDogdCgnYXV0aC5sb2dpbicpfVxuICAgICAgICA8L0xvZ2luQnV0dG9uPlxuICAgICAgICB7Y29uZmlnLnNpdGVfdXJsICYmIDxHb0JhY2tCdXR0b24gaHJlZj17Y29uZmlnLnNpdGVfdXJsfSB0PXt0fT48L0dvQmFja0J1dHRvbj59XG4gICAgICA8L1N0eWxlZEF1dGhlbnRpY2F0aW9uUGFnZT5cbiAgICApO1xuICB9XG59XG4iXX0= */",
+  toString: _EMOTION_STRINGIFIED_CSS_ERROR__
+});
+const LoginButton = /*#__PURE__*/_styled("button", {
+  target: "e1ektlme0",
+  label: "LoginButton"
+})(buttons.button, ";", shadows.dropDeep, ";", buttons.default, ";", buttons.gray, ";padding:0 30px;margin-top:0;display:flex;align-items:center;position:relative;", Icon, "{margin-right:18px;}" + (process.env.NODE_ENV === "production" ? "" : "/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uLy4uL3NyYy9BdXRoZW50aWNhdGlvblBhZ2UuanMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBYWlDIiwiZmlsZSI6Ii4uLy4uL3NyYy9BdXRoZW50aWNhdGlvblBhZ2UuanMiLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgUmVhY3QgZnJvbSAncmVhY3QnO1xuaW1wb3J0IFByb3BUeXBlcyBmcm9tICdwcm9wLXR5cGVzJztcbmltcG9ydCBzdHlsZWQgZnJvbSAnQGVtb3Rpb24vc3R5bGVkJztcbmltcG9ydCB7IEljb24sIGJ1dHRvbnMsIHNoYWRvd3MsIEdvQmFja0J1dHRvbiwgcmVuZGVyUGFnZUxvZ28gfSBmcm9tICdkZWNhcC1jbXMtdWktZGVmYXVsdCc7XG5cbmNvbnN0IFN0eWxlZEF1dGhlbnRpY2F0aW9uUGFnZSA9IHN0eWxlZC5zZWN0aW9uYFxuICBkaXNwbGF5OiBmbGV4O1xuICBmbGV4LWZsb3c6IGNvbHVtbiBub3dyYXA7XG4gIGFsaWduLWl0ZW1zOiBjZW50ZXI7XG4gIGp1c3RpZnktY29udGVudDogY2VudGVyO1xuICBoZWlnaHQ6IDEwMHZoO1xuYDtcblxuY29uc3QgTG9naW5CdXR0b24gPSBzdHlsZWQuYnV0dG9uYFxuICAke2J1dHRvbnMuYnV0dG9ufTtcbiAgJHtzaGFkb3dzLmRyb3BEZWVwfTtcbiAgJHtidXR0b25zLmRlZmF1bHR9O1xuICAke2J1dHRvbnMuZ3JheX07XG5cbiAgcGFkZGluZzogMCAzMHB4O1xuICBtYXJnaW4tdG9wOiAwO1xuICBkaXNwbGF5OiBmbGV4O1xuICBhbGlnbi1pdGVtczogY2VudGVyO1xuICBwb3NpdGlvbjogcmVsYXRpdmU7XG5cbiAgJHtJY29ufSB7XG4gICAgbWFyZ2luLXJpZ2h0OiAxOHB4O1xuICB9XG5gO1xuXG5leHBvcnQgZGVmYXVsdCBjbGFzcyBBdXRoZW50aWNhdGlvblBhZ2UgZXh0ZW5kcyBSZWFjdC5Db21wb25lbnQge1xuICBzdGF0aWMgcHJvcFR5cGVzID0ge1xuICAgIG9uTG9naW46IFByb3BUeXBlcy5mdW5jLmlzUmVxdWlyZWQsXG4gICAgaW5Qcm9ncmVzczogUHJvcFR5cGVzLmJvb2wsXG4gICAgY29uZmlnOiBQcm9wVHlwZXMub2JqZWN0LmlzUmVxdWlyZWQsXG4gICAgdDogUHJvcFR5cGVzLmZ1bmMuaXNSZXF1aXJlZCxcbiAgfTtcblxuICBjb21wb25lbnREaWRNb3VudCgpIHtcbiAgICAvLyBNYW51YWxseSB2YWxpZGF0ZSBQcm9wVHlwZXMgLSBSZWFjdCAxOSBicmVha2luZyBjaGFuZ2VcbiAgICBQcm9wVHlwZXMuY2hlY2tQcm9wVHlwZXMoXG4gICAgICBBdXRoZW50aWNhdGlvblBhZ2UucHJvcFR5cGVzLFxuICAgICAgdGhpcy5wcm9wcyxcbiAgICAgICdwcm9wJyxcbiAgICAgICdBdXRoZW50aWNhdGlvblBhZ2UnLFxuICAgICk7XG4gIH1cblxuICBoYW5kbGVMb2dpbiA9IGUgPT4ge1xuICAgIGUucHJldmVudERlZmF1bHQoKTtcbiAgICB0aGlzLnByb3BzLm9uTG9naW4odGhpcy5zdGF0ZSk7XG4gIH07XG5cbiAgcmVuZGVyKCkge1xuICAgIGNvbnN0IHsgY29uZmlnLCBpblByb2dyZXNzLCB0IH0gPSB0aGlzLnByb3BzO1xuXG4gICAgcmV0dXJuIChcbiAgICAgIDxTdHlsZWRBdXRoZW50aWNhdGlvblBhZ2U+XG4gICAgICAgIHtyZW5kZXJQYWdlTG9nbyhjb25maWcubG9nbz8uc3JjIHx8IGNvbmZpZy5sb2dvX3VybCl9XG4gICAgICAgIDxMb2dpbkJ1dHRvbiBkaXNhYmxlZD17aW5Qcm9ncmVzc30gb25DbGljaz17dGhpcy5oYW5kbGVMb2dpbn0+XG4gICAgICAgICAge2luUHJvZ3Jlc3MgPyB0KCdhdXRoLmxvZ2dpbmdJbicpIDogdCgnYXV0aC5sb2dpbicpfVxuICAgICAgICA8L0xvZ2luQnV0dG9uPlxuICAgICAgICB7Y29uZmlnLnNpdGVfdXJsICYmIDxHb0JhY2tCdXR0b24gaHJlZj17Y29uZmlnLnNpdGVfdXJsfSB0PXt0fT48L0dvQmFja0J1dHRvbj59XG4gICAgICA8L1N0eWxlZEF1dGhlbnRpY2F0aW9uUGFnZT5cbiAgICApO1xuICB9XG59XG4iXX0= */"));
+export default class AuthenticationPage extends React.Component {
+  static propTypes = {
+    onLogin: PropTypes.func.isRequired,
+    inProgress: PropTypes.bool,
+    config: PropTypes.object.isRequired,
+    t: PropTypes.func.isRequired
+  };
+  componentDidMount() {
+    // Manually validate PropTypes - React 19 breaking change
+    PropTypes.checkPropTypes(AuthenticationPage.propTypes, this.props, 'prop', 'AuthenticationPage');
+  }
+  handleLogin = e => {
+    e.preventDefault();
+    this.props.onLogin(this.state);
+  };
+  render() {
+    const {
+      config,
+      inProgress,
+      t
+    } = this.props;
+    return ___EmotionJSX(StyledAuthenticationPage, null, renderPageLogo(config.logo?.src || config.logo_url), ___EmotionJSX(LoginButton, {
+      disabled: inProgress,
+      onClick: this.handleLogin
+    }, inProgress ? t('auth.loggingIn') : t('auth.login')), config.site_url && ___EmotionJSX(GoBackButton, {
+      href: config.site_url,
+      t: t
+    }));
+  }
+}

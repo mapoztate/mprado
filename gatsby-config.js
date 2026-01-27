@@ -20,7 +20,16 @@ module.exports = {
     ],
   },
   plugins: [
-    `gatsby-plugin-styled-components`,
+    {
+      resolve: `gatsby-plugin-styled-components`,
+      options: {
+        displayName: true,
+        fileName: true,
+        minify: false,
+        transpileTemplateLiterals: true,
+        pure: true,
+      },
+    },
     `gatsby-plugin-image`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
@@ -50,12 +59,6 @@ module.exports = {
       options: {
         plugins: [
           {
-            resolve: `gatsby-remark-relative-images`,
-            options: {
-              staticFolderName: 'static',
-            },
-          },
-          {
             resolve: `gatsby-remark-images`,
             options: {
               maxWidth: 630,
@@ -75,7 +78,7 @@ module.exports = {
       },
     },
     {
-      resolve: 'gatsby-plugin-netlify-cms',
+      resolve: 'gatsby-plugin-decap-cms',
       options: {
         modulePath: `${__dirname}/src/netlify-cms/index.js`,
         enableIdentityWidget: true,
@@ -101,6 +104,7 @@ module.exports = {
         `,
         feeds: [
           {
+            title: 'Matthew Prado Blog RSS Feed',
             serialize: ({ query: { site, allMarkdownRemark } }) => {
               return allMarkdownRemark.nodes.map((node) => {
                 return Object.assign({}, node.frontmatter, {
@@ -115,7 +119,7 @@ module.exports = {
             query: `
               {
                 allMarkdownRemark(
-                  sort: { order: DESC, fields: [frontmatter___date] },
+                  sort: { frontmatter: { date: DESC } }
                 ) {
                   nodes {
                     excerpt

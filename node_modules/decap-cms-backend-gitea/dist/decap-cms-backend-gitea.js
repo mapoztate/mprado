@@ -1,0 +1,2 @@
+!function(e,t){"object"==typeof exports&&"object"==typeof module?module.exports=t():"function"==typeof define&&define.amd?define("DecapCmsBackendGitea",[],t):"object"==typeof exports?exports.DecapCmsBackendGitea=t():e.DecapCmsBackendGitea=t()}(window,()=>(()=>{"use strict";var e={};return e.DecapCmsBackendGitea})());
+//# sourceMappingURL=decap-cms-backend-gitea.js.map

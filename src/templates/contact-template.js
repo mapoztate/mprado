@@ -26,7 +26,7 @@ const ContactTemplate = ({ data }) => {
 export default ContactTemplate;
 
 const ContactForm = () => {
-  const { register, handleSubmit, errors } = useForm();
+  const { register, handleSubmit, formState: { errors } } = useForm();
   const netlify = useNetlifyForm({
     name: 'Contact',
     action: '/thanks',
@@ -47,9 +47,8 @@ const ContactForm = () => {
             <label htmlFor="name">Name</label>
             <input
               id="name"
-              name="name"
               type="text"
-              ref={register({ required: 'Name is required' })}
+              {...register('name', { required: 'Name is required' })}
             />
             {errors.name && (
               <FormErrorMessage>{errors.name.message}</FormErrorMessage>
@@ -60,9 +59,8 @@ const ContactForm = () => {
             <label htmlFor="email">Email</label>
             <input
               id="email"
-              name="email"
               type="text"
-              ref={register({
+              {...register('email', {
                 required: 'Email is required.',
                 pattern: {
                   message: 'Email is not valid.',
@@ -79,9 +77,8 @@ const ContactForm = () => {
             <label htmlFor="message">Your message</label>
             <textarea
               id="message"
-              name="message"
               rows="4"
-              ref={register({ required: 'Message is required' })}
+              {...register('message', { required: 'Message is required' })}
             />
             {errors.message && (
               <FormErrorMessage>{errors.message.message}</FormErrorMessage>

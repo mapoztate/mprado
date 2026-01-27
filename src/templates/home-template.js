@@ -2,19 +2,14 @@ import React from "react";
 import { graphql } from 'gatsby';
 import Layout from '../components/layout';
 import styled from 'styled-components';
-import StyledLink from '../components/styled-link';
 
 const PostTemplate = ({ data }) => {
   const { frontmatter, excerpt, html } = data.markdownRemark;
-  const prev = data.prev;
-  const next = data.next;
       
   return (
     <Layout
       description={frontmatter.description || excerpt}
-      socialImage={
-        frontmatter.social_image ? frontmatter.social_image.absolutePath : ''
-      }
+      socialImage={frontmatter.social_image || ''}
     >
       <PostWrapper>
         <article>
@@ -112,55 +107,6 @@ const PostContent = styled.section`
     max-width: 100%;
   }
 `;
-
-const PostPagination = styled.nav`
-  display: flex;
-  flex-wrap: wrap;
-  margin-top: var(--size-900);
-
-  & > * {
-    position: relative;
-    flex: 1;
-    display: flex;
-    flex-direction: column;
-    padding: 1rem;
-    padding-top: 0.5rem;
-    padding-bottom: 0.5rem;
-    border-radius: 8px;
-    border: 1px solid rgba(255, 255, 255, 0.5);
-    background-color: rgba(255, 255, 255, 0.3);
-    backdrop-filter: blur(10px);
-    margin: 0.5rem;
-  }
-
-  & > *:hover {
-    background-color: rgba(255, 255, 255, 0.5);
-  }
-
-  & span {
-    text-transform: uppercase;
-    opacity: 0.6;
-    font-size: var(--size-400);
-    padding-bottom: var(--size-500);
-  }
-
-  & a {
-    color: inherit;
-    text-decoration: none;
-    font-size: var(--size-400);
-    text-transform: none;
-  }
-
-  & a::after {
-    content: '';
-    position: absolute;
-    left: 0;
-    right: 0;
-    top: 0;
-    bottom: 0;
-  }
-`;
-
 export const pageQuery = graphql`
   query($slug: String!, $prevSlug: String, $nextSlug: String) {
     markdownRemark(fields: { slug: { eq: $slug } }) {
@@ -171,9 +117,7 @@ export const pageQuery = graphql`
         tags
         date(formatString: "MMMM DD, YYYY")
         description
-        social_image {
-          absolutePath
-        }
+        social_image
       }
     }
 

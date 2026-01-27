@@ -36,9 +36,7 @@ const PostTemplate = ({ data }) => {
     <Layout
       title={frontmatter.title}
       description={frontmatter.description || excerpt}
-      socialImage={
-        frontmatter.social_image ? frontmatter.social_image.absolutePath : ''
-      }
+      socialImage={frontmatter.social_image || ''}
     >
       <PostWrapper>
         <article>
@@ -209,9 +207,7 @@ export const pageQuery = graphql`
         tags
         date(formatString: "MMMM DD, YYYY")
         description
-        social_image {
-          absolutePath
-        }
+        social_image
       }
     }
 
