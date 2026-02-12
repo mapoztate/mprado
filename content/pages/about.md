@@ -8,7 +8,11 @@ template: 'about-template'
 
 <br>
 
-Studying Data Science, Environmental Economics & Policy, and South & Southeast Asian Studies at UC Berkeley. I'm exploring adjacent topics in data engineering including security and product, with research interests in computational social science and computer science pedagogy. Please refer to my LinkedIn/CV for more information regarding my professional/academic experience.
+Berkeley and (soon-to-be!) GT alum currently working as a Data Scientist and de facto lead of the Systems Engineering team at EUV Tech. My work focuses on internal platforms (e.g. IaC, AI strategy) for tools in semiconductor metrology. 
+
+<br>
+
+In another life, my academic research was focused on edtech as well as a splash of Philippine developmental policy. Feel free to look at my LinkedIn for more details!
 
 <br><br>
 

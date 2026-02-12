@@ -3,9 +3,9 @@ module.exports = {
     title: `Matthew Prado`,
     author: {
       name: `Matthew Prado`,
-      summary: `Researcher in data science, cybersecurity, education, and Philippine development.`,
+      summary: `Engineer interested in the intersection of data science, engineering, and operations.`,
     },
-    description: `Fun blogs about life, liberty, and the pursuit of data science.`,
+    description: `Fun blogs about life, liberty, and taxes.',
     siteUrl: `https://www.mapoztate.com`,
     social: {
       twitter: `mapoztate`,

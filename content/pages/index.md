@@ -3,11 +3,11 @@ template: 'home-template'
 title: 'Home'
 ---
 
-<h1> Hi! I'm Matt. </h1> 
+<h1> Hi! I'm Matthew. </h1> 
 
 <table>
     <tr>
-        <td style="vertical-align:top;" width="45%"> Welcome to my personal blog, where I write about all things education, tech, and just about anything else that I love. If you want to find out more about me professionally, check out my about page.
+        <td style="vertical-align:top;" width="45%"> Welcome to my personal blog, where I've thought to ramble about since high school. If you want to find out more about me professionally, check out my about page.
         <br><br> If you want to see my cybersecurity work, I'm an occassional author on the <a href="https://3waystoheck.netlify.app/">3 Ways to Heck</a> blog as well. <br><br>
         <p align='center'>
         <a href="https://www.linkedin.com/in/mapoztate/"><img height="30" width="30" src="https://user-images.githubusercontent.com/71365470/122693012-d4f14200-d1ec-11eb-8852-4bd223d3b41f.png" alt="linkedin"></a>&nbsp;&nbsp;
