@@ -5,7 +5,7 @@ module.exports = {
       name: `Matthew Prado`,
       summary: `Engineer interested in the intersection of data science, engineering, and operations.`,
     },
-    description: `Fun blogs about life, liberty, and taxes.',
+    description: `Fun blogs about life, liberty, and taxes.`,
     siteUrl: `https://www.mapoztate.com`,
     social: {
       twitter: `mapoztate`,
