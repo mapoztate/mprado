@@ -7938,7 +7938,7 @@ module.exports = /*#__PURE__*/JSON.parse('{"data":{"site":{"siteMetadata":{"soci
   \***********************************************/
 /***/ ((module) => {
 
-module.exports = /*#__PURE__*/JSON.parse('{"data":{"site":{"siteMetadata":{"title":"Matthew Prado","description":"Fun blogs about life, liberty, and the pursuit of data science.","social":{"twitter":"mapoztate"}}}}}');
+module.exports = /*#__PURE__*/JSON.parse('{"data":{"site":{"siteMetadata":{"title":"Matthew Prado","description":"Fun blogs about life, liberty, and taxes.","social":{"twitter":"mapoztate"}}}}}');
 
 /***/ }),
 
